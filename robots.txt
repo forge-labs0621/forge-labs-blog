@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forge-labs0621.github.io/forge-labs-blog/sitemap.xml

@@ -7,3 +7,8 @@ header_pages:
   - about.md
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+url: "https://forge-labs0621.github.io"
+baseurl: "/forge-labs-blog"
+lang: ja
