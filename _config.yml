@@ -1,0 +1,9 @@
+title: Forge Labs Blog
+description: 中小製造業のためのAI業務効率化情報。AIプロンプトテンプレート集の制作・販売をしています。
+theme: minima
+markdown: kramdown
+show_excerpts: true
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
