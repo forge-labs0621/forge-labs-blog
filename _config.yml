@@ -12,4 +12,6 @@ plugins:
 url: "https://forge-labs0621.github.io"
 baseurl: "/forge-labs-blog"
 lang: ja
-google_site_verification: rj5q6pmLh7aLnjW9asqHQ1ZqWa4A6fhhVjCmpMwcQbo
+webmaster_verifications:
+  google: rj5q6pmLh7aLnjW9asqHQ1ZqWa4A6fhhVjCmpMwcQbo
+  bing: 40AD9387BE2F1C30686431136561AACD
