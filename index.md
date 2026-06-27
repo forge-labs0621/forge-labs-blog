@@ -177,6 +177,12 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **情報セキュリティ・コンプライアンス**
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
+- [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
+
+**健康・助成金・省エネ**
+- [製造業の健康管理・産業医対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/health-management-industrial-doctor-ai.html)
+- [製造業が使える雇用助成金・補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/28/employment-subsidy-grant-manufacturing-ai.html)
+- [製造業の省エネ診断・エネルギー監査書類をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-audit-saving-diagnosis-ai.html)
 
 **AI導入・チーム活用**
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
