@@ -28,13 +28,14 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 
-**安全・設備管理**
+**安全・設備・環境管理**
 - [安全衛生委員会議事録をAIで作る方法](/forge-labs-blog/2026/06/27/safety-committee-minutes-ai.html)
 - [KY活動（危険予知）記録をAIで作る方法](/forge-labs-blog/2026/06/27/ky-safety-record-ai.html)
 - [ヒヤリハット報告書をAIで作る方法](/forge-labs-blog/2026/06/21/near-miss-ai.html)
 - [設備点検記録をAIで標準化する方法](/forge-labs-blog/2026/06/21/equipment-inspection-ai.html)
 - [設備トラブル・故障報告書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-trouble-report-ai.html)
 - [設備台帳・固定資産台帳をAIで整理する方法](/forge-labs-blog/2026/06/27/equipment-ledger-ai.html)
+- [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
@@ -54,11 +55,12 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
-**人材育成・採用**
+**人材育成・採用・労務**
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
 - [求人票・採用補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/manufacturing-recruitment-ai.html)
 - [外国人労働者向け多言語文書をAIで作る方法](/forge-labs-blog/2026/06/27/multilingual-document-ai.html)
 - [製造業の社内研修・教育テキストをAIで作る方法](/forge-labs-blog/2026/06/27/training-material-ai.html)
+- [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
 **補助金・経営支援**
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
