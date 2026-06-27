@@ -12,7 +12,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
 - [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
-- [中小製造業でAIを使って削れる書類作業21選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
+- [中小製造業でAIを使って削れる書類作業24選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
 - [製造業の作業日報テンプレート【AIで入力する書き方つき】](/forge-labs-blog/2026/06/26/work-report-template-free.html)
 
 ---
@@ -27,6 +27,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 
 **安全・設備管理**
+- [安全衛生委員会議事録をAIで作る方法](/forge-labs-blog/2026/06/27/safety-committee-minutes-ai.html)
 - [KY活動（危険予知）記録をAIで作る方法](/forge-labs-blog/2026/06/27/ky-safety-record-ai.html)
 - [ヒヤリハット報告書をAIで作る方法](/forge-labs-blog/2026/06/21/near-miss-ai.html)
 - [設備点検記録をAIで標準化する方法](/forge-labs-blog/2026/06/21/equipment-inspection-ai.html)
@@ -36,6 +37,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
 - [受注確認書をAIで作る方法](/forge-labs-blog/2026/06/21/order-confirmation-ai.html)
 - [発注書・注文書の下書きをAIに任せる方法](/forge-labs-blog/2026/06/27/purchase-order-ai.html)
+- [仕入先・外注先評価シートをAIで作る方法](/forge-labs-blog/2026/06/27/supplier-evaluation-ai.html)
 - [納品書の文面をAIで統一する方法](/forge-labs-blog/2026/06/21/delivery-note-ai.html)
 
 **品質・改善**
@@ -48,6 +50,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **人材育成**
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
+
+**原価・工数管理**
+- [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
 
 ---
 
