@@ -9,6 +9,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
+- [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
+- [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
 - [製造業でChatGPTを使う際の情報漏洩・セキュリティ対策](/forge-labs-blog/2026/06/27/ai-security-manufacturing.html)
 - [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
@@ -24,6 +26,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
 - [生産スケジュール・工程表をAIで整理する方法](/forge-labs-blog/2026/06/27/production-schedule-ai.html)
+- [作業指示書・ピッキングリストをAIで作る方法](/forge-labs-blog/2026/06/28/work-instruction-picking-ai.html)
 - [作業標準書・手順書をAIで作る方法](/forge-labs-blog/2026/06/27/sop-work-instruction-ai.html)
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
@@ -76,6 +79,15 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
+- [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
+
+**AI導入・チーム活用**
+- [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
+- [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)
+- [製造業でChatGPTをチームに展開する方法【社内導入の手順】](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)
+- [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
+- [製造業でChatGPTを使う際の情報漏洩・セキュリティ対策](/forge-labs-blog/2026/06/27/ai-security-manufacturing.html)
+- [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
 
 ---
 
