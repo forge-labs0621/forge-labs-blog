@@ -40,13 +40,15 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **受注・購買・出荷**
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
 - [受注確認書をAIで作る方法](/forge-labs-blog/2026/06/21/order-confirmation-ai.html)
+- [見積依頼書（RFQ）・購買問い合わせをAIで作る方法](/forge-labs-blog/2026/06/27/rfq-purchase-inquiry-ai.html)
 - [発注書・注文書の下書きをAIに任せる方法](/forge-labs-blog/2026/06/27/purchase-order-ai.html)
 - [仕入先・外注先評価シートをAIで作る方法](/forge-labs-blog/2026/06/27/supplier-evaluation-ai.html)
 - [納品書の文面をAIで統一する方法](/forge-labs-blog/2026/06/21/delivery-note-ai.html)
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
-**品質・改善**
+**品質・改善・ISO対応**
 - [出荷検査・受入検査記録をAIで作る方法](/forge-labs-blog/2026/06/27/shipping-incoming-inspection-ai.html)
+- [品質マニュアル・ISO 9001文書をAIで整理する方法](/forge-labs-blog/2026/06/27/quality-manual-iso-ai.html)
 - [4M変更管理記録をAIで作る方法（ISO対応）](/forge-labs-blog/2026/06/27/4m-change-management-ai.html)
 - [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
