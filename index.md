@@ -45,6 +45,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [製造業の輸出入書類（英文インボイス・原産地証明）をAIで作る方法](/forge-labs-blog/2026/06/28/export-import-documents-ai.html)
 - [工場見学・視察受入れの案内資料をAIで作る方法](/forge-labs-blog/2026/06/28/factory-tour-reception-ai.html)
 - [製造業の技術提案書・改善提案書をAIで作る方法](/forge-labs-blog/2026/06/28/technical-proposal-improvement-ai.html)
 - [価格改定・値上げ申請書をAIで作る方法](/forge-labs-blog/2026/06/28/price-revision-negotiation-ai.html)
@@ -91,6 +92,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
 **補助金・経営支援・社内管理**
+- [製造業のDX推進計画書・IT活用報告書をAIで作る方法](/forge-labs-blog/2026/06/28/dx-promotion-plan-ai.html)
 - [電子帳簿保存法の対応をAIで整理する方法](/forge-labs-blog/2026/06/28/digital-bookkeeping-preservation-ai.html)
 - [インボイス制度（適格請求書）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/invoice-system-manufacturing-ai.html)
 - [月次業績報告書・経営報告をAIで整理する方法](/forge-labs-blog/2026/06/28/monthly-business-report-ai.html)
