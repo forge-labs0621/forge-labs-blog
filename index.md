@@ -132,6 +132,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [BCP（事業継続計画）・防災計画の骨子をAIで整理する方法](/forge-labs-blog/2026/06/27/bcp-disaster-plan-ai.html)
 - [製造業のサプライチェーンリスク・調達多様化計画書をAIで作る方法](/forge-labs-blog/2026/06/28/supply-chain-risk-bcp-ai.html)
 - [社内通達・業務連絡文をAIで作る方法](/forge-labs-blog/2026/06/27/internal-notice-ai.html)
+- [製造業の知的財産（特許・実用新案・意匠）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/intellectual-property-patent-manufacturing-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
