@@ -55,6 +55,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
+- [経営会議・品質会議の議事録をAIで作る方法](/forge-labs-blog/2026/06/27/management-meeting-minutes-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
@@ -67,6 +68,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **補助金・経営支援・社内管理**
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
 - [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
+- [BCP（事業継続計画）・防災計画の骨子をAIで整理する方法](/forge-labs-blog/2026/06/27/bcp-disaster-plan-ai.html)
 - [社内通達・業務連絡文をAIで作る方法](/forge-labs-blog/2026/06/27/internal-notice-ai.html)
 
 **原価・工数管理**
