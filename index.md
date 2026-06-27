@@ -68,6 +68,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **品質・改善・ISO対応**
 - [IATF 16949の書類・審査対応をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/iatf16949-automotive-quality-ai.html)
 - [食品製造業のHACCP・衛生管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/haccp-food-manufacturing-ai.html)
+- [ISO 45001（労働安全衛生マネジメント）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso45001-safety-management-ai.html)
+- [製造業の設計審査（デザインレビュー/DR）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/design-review-dr-manufacturing-ai.html)
 - [製造業のQCサークル・改善活動の発表資料をAIで整理する方法](/forge-labs-blog/2026/06/28/qc-circle-kaizen-activity-ai.html)
 - [製造業の外注先・仕入先品質管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-quality-management-ai.html)
 - [製造業のロット管理・トレーサビリティをAIで整理する方法](/forge-labs-blog/2026/06/28/lot-traceability-management-ai.html)
