@@ -81,6 +81,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [QC工程表・コントロールプランをAIで整理する方法](/forge-labs-blog/2026/06/28/qc-process-chart-control-plan-ai.html)
 - [製造業の顧客満足度調査（CS調査）をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-satisfaction-survey-ai.html)
 - [製品保証書・ワランティ文書をAIで作る方法](/forge-labs-blog/2026/06/28/product-warranty-guarantee-ai.html)
+- [製造業のリコール・製品回収対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/product-recall-safety-act-ai.html)
 - [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
 - [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
 - [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
@@ -134,6 +135,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のサプライチェーンリスク・調達多様化計画書をAIで作る方法](/forge-labs-blog/2026/06/28/supply-chain-risk-bcp-ai.html)
 - [社内通達・業務連絡文をAIで作る方法](/forge-labs-blog/2026/06/27/internal-notice-ai.html)
 - [製造業の知的財産（特許・実用新案・意匠）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/intellectual-property-patent-manufacturing-ai.html)
+- [製造業の事業承継・M&A関連書類をAIで整理する方法](/forge-labs-blog/2026/06/28/business-succession-ma-manufacturing-ai.html)
+- [製造業の工場移転・新工場立ち上げの書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-relocation-new-plant-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
