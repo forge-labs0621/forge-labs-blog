@@ -138,6 +138,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
 - [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
+- [製造業の設備投資評価・ROI計算レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-finance-roi-report-ai.html)
 
 **AI導入・チーム活用**
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
