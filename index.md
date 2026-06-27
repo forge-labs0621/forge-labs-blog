@@ -63,6 +63,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [PPAP・APQP対応書類をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/ppap-apqp-automotive-ai.html)
+- [QC工程表・コントロールプランをAIで整理する方法](/forge-labs-blog/2026/06/28/qc-process-chart-control-plan-ai.html)
 - [製造業の顧客満足度調査（CS調査）をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-satisfaction-survey-ai.html)
 - [製品保証書・ワランティ文書をAIで作る方法](/forge-labs-blog/2026/06/28/product-warranty-guarantee-ai.html)
 - [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
