@@ -25,6 +25,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 
 **安全・設備管理**
+- [KY活動（危険予知）記録をAIで作る方法](/forge-labs-blog/2026/06/27/ky-safety-record-ai.html)
 - [ヒヤリハット報告書をAIで作る方法](/forge-labs-blog/2026/06/21/near-miss-ai.html)
 - [設備点検記録をAIで標準化する方法](/forge-labs-blog/2026/06/21/equipment-inspection-ai.html)
 - [設備トラブル・故障報告書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-trouble-report-ai.html)
