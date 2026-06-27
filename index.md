@@ -33,6 +33,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 - [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
+- [製造業の生産能力・稼働率分析レポートをAIで作る方法](/forge-labs-blog/2026/06/28/production-capacity-analysis-ai.html)
 
 **安全・設備・環境管理**
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
@@ -48,6 +49,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [設備台帳・固定資産台帳をAIで整理する方法](/forge-labs-blog/2026/06/27/equipment-ledger-ai.html)
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 - [製造業の産業廃棄物管理（マニフェスト）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/industrial-waste-manifest-ai.html)
+- [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
