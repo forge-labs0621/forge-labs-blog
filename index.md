@@ -13,7 +13,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業でChatGPTを使う際の情報漏洩・セキュリティ対策](/forge-labs-blog/2026/06/27/ai-security-manufacturing.html)
 - [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
-- [中小製造業でAIを使って削れる書類作業26選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
+- [中小製造業でAIを使って削れる書類作業40選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
 - [製造業の作業日報テンプレート【AIで入力する書き方つき】](/forge-labs-blog/2026/06/26/work-report-template-free.html)
 
 ---
