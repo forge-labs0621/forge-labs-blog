@@ -42,6 +42,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [梱包仕様書・出荷明細書をAIで作る方法](/forge-labs-blog/2026/06/28/packaging-spec-shipping-doc-ai.html)
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
 - [受注確認書をAIで作る方法](/forge-labs-blog/2026/06/21/order-confirmation-ai.html)
 - [見積依頼書（RFQ）・購買問い合わせをAIで作る方法](/forge-labs-blog/2026/06/27/rfq-purchase-inquiry-ai.html)
@@ -54,6 +55,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **品質・改善・ISO対応**
 - [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
 - [設計変更通知書（ECN）をAIで整理する方法](/forge-labs-blog/2026/06/28/design-change-notice-ai.html)
+- [試作管理・量産移行記録をAIで整理する方法](/forge-labs-blog/2026/06/28/prototype-trial-production-ai.html)
 - [出荷検査・受入検査記録をAIで作る方法](/forge-labs-blog/2026/06/27/shipping-incoming-inspection-ai.html)
 - [品質成績書・検査成績書（CoC）をAIで整理する方法](/forge-labs-blog/2026/06/28/quality-certificate-ai.html)
 - [品質マニュアル・ISO 9001文書をAIで整理する方法](/forge-labs-blog/2026/06/27/quality-manual-iso-ai.html)
