@@ -54,6 +54,10 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **人材育成・採用**
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
 - [求人票・採用補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/manufacturing-recruitment-ai.html)
+- [外国人労働者向け多言語文書をAIで作る方法](/forge-labs-blog/2026/06/27/multilingual-document-ai.html)
+
+**補助金・経営支援**
+- [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
