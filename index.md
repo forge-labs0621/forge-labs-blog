@@ -9,6 +9,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
+- [製造業でAI（ChatGPT）を使って効率化できる書類100選【完全まとめ】](/forge-labs-blog/2026/06/28/manufacturing-ai-100-use-cases.html)（★全記事まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
 - [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
@@ -31,6 +32,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [作業標準書・手順書をAIで作る方法](/forge-labs-blog/2026/06/27/sop-work-instruction-ai.html)
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
+- [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
 
 **安全・設備・環境管理**
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
@@ -105,6 +107,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [外国人労働者向け多言語文書をAIで作る方法](/forge-labs-blog/2026/06/27/multilingual-document-ai.html)
 - [製造業の社内研修・教育テキストをAIで作る方法](/forge-labs-blog/2026/06/27/training-material-ai.html)
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
+- [製造業の作業者資格・免許・技能資格の管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/worker-qualification-license-management-ai.html)
 
 **補助金・経営支援・社内管理**
 - [製造業の年度予算・生産能力計画をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-budget-production-plan-ai.html)
