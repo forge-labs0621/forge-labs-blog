@@ -155,6 +155,11 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **品質工学・統計**
 - [製造業の統計的工程管理（SPC）・管理図の活用をAIで整理する方法](/forge-labs-blog/2026/06/28/spc-statistical-process-control-ai.html)
+- [製造業のFMEA（故障モード影響解析）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/fmea-process-risk-analysis-ai.html)
+
+**開発・プロジェクト管理**
+- [製造業の新製品開発・ステージゲート管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/new-product-development-stage-gate-ai.html)
+- [製造業のプロジェクト管理・課題管理をAIで整理する方法](/forge-labs-blog/2026/06/28/project-management-manufacturing-ai.html)
 
 **税務・財務**
 - [製造業の法人税・消費税申告の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/corporate-tax-filing-manufacturing-ai.html)
