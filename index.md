@@ -36,6 +36,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の生産能力・稼働率分析レポートをAIで作る方法](/forge-labs-blog/2026/06/28/production-capacity-analysis-ai.html)
 - [製造業の物流・輸配送管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/logistics-shipping-management-ai.html)
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
+- [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
 **安全・設備・環境管理**
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
@@ -144,6 +145,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の知的財産（特許・実用新案・意匠）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/intellectual-property-patent-manufacturing-ai.html)
 - [製造業の事業承継・M&A関連書類をAIで整理する方法](/forge-labs-blog/2026/06/28/business-succession-ma-manufacturing-ai.html)
 - [製造業の工場移転・新工場立ち上げの書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-relocation-new-plant-ai.html)
+- [製造業のCSR・ESG対応・サステナビリティレポートをAIで整理する方法](/forge-labs-blog/2026/06/28/csr-esg-sustainability-manufacturing-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
