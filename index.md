@@ -12,7 +12,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
 - [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
-- [中小製造業でAIを使って削れる書類作業18選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
+- [中小製造業でAIを使って削れる書類作業21選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
 - [製造業の作業日報テンプレート【AIで入力する書き方つき】](/forge-labs-blog/2026/06/26/work-report-template-free.html)
 
 ---
@@ -22,6 +22,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **生産・現場管理**
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
+- [作業標準書・手順書をAIで作る方法](/forge-labs-blog/2026/06/27/sop-work-instruction-ai.html)
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 
@@ -39,6 +40,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **品質・改善**
 - [4M変更管理記録をAIで作る方法（ISO対応）](/forge-labs-blog/2026/06/27/4m-change-management-ai.html)
+- [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
+- [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
