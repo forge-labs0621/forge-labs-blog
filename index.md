@@ -23,6 +23,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **生産・現場管理**
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
+- [生産スケジュール・工程表をAIで整理する方法](/forge-labs-blog/2026/06/27/production-schedule-ai.html)
 - [作業標準書・手順書をAIで作る方法](/forge-labs-blog/2026/06/27/sop-work-instruction-ai.html)
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
