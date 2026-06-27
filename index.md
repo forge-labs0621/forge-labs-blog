@@ -69,6 +69,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [採用面接評価シート・内定通知をAIで作る方法](/forge-labs-blog/2026/06/28/interview-evaluation-sheet-ai.html)
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
 - [求人票・採用補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/manufacturing-recruitment-ai.html)
 - [外国人労働者向け多言語文書をAIで作る方法](/forge-labs-blog/2026/06/27/multilingual-document-ai.html)
