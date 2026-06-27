@@ -73,6 +73,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **品質・改善・ISO対応**
 - [IATF 16949の書類・審査対応をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/iatf16949-automotive-quality-ai.html)
 - [食品製造業のHACCP・衛生管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/haccp-food-manufacturing-ai.html)
+- [製造業の顧客工場監査（第二者監査）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-audit-second-party-ai.html)
+- [製造業のRoHS・REACH・化学物質規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/rohs-reach-environmental-compliance-ai.html)
 - [ISO 45001（労働安全衛生マネジメント）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso45001-safety-management-ai.html)
 - [製造業の設計審査（デザインレビュー/DR）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/design-review-dr-manufacturing-ai.html)
 - [製造業のQCサークル・改善活動の発表資料をAIで整理する方法](/forge-labs-blog/2026/06/28/qc-circle-kaizen-activity-ai.html)
@@ -122,6 +124,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の作業者資格・免許・技能資格の管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/worker-qualification-license-management-ai.html)
 - [製造業の技能実習生・特定技能外国人の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/technical-intern-foreign-worker-ai.html)
 - [製造業の給与計算・社会保険手続きをAIで補助する方法](/forge-labs-blog/2026/06/28/payroll-social-insurance-manufacturing-ai.html)
+- [製造業の派遣労働者・請負業者の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/dispatch-contractor-management-ai.html)
 - [製造業の働き方改革・時間外労働上限規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overtime-reform-work-style-ai.html)
 
 **補助金・経営支援・社内管理**
