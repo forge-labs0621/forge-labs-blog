@@ -23,6 +23,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 ### 書類種類別ガイド
 
 **生産・現場管理**
+- [製造業の在庫管理・安全在庫・発注点をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-safety-stock-management-ai.html)
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
 - [生産スケジュール・工程表をAIで整理する方法](/forge-labs-blog/2026/06/27/production-schedule-ai.html)
@@ -87,6 +88,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
 - [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
