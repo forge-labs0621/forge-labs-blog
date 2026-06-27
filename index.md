@@ -94,6 +94,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
 **補助金・経営支援・社内管理**
+- [製造業の中期経営計画書（3カ年計画）をAIで整理する方法](/forge-labs-blog/2026/06/28/medium-term-management-plan-ai.html)
+- [製造業のカーボンニュートラル対応・CO2排出量開示をAIで整理する方法](/forge-labs-blog/2026/06/28/carbon-neutral-ghg-manufacturing-ai.html)
 - [製造業のDX推進計画書・IT活用報告書をAIで作る方法](/forge-labs-blog/2026/06/28/dx-promotion-plan-ai.html)
 - [電子帳簿保存法の対応をAIで整理する方法](/forge-labs-blog/2026/06/28/digital-bookkeeping-preservation-ai.html)
 - [インボイス制度（適格請求書）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/invoice-system-manufacturing-ai.html)
