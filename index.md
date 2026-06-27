@@ -45,6 +45,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [製造業の技術提案書・改善提案書をAIで作る方法](/forge-labs-blog/2026/06/28/technical-proposal-improvement-ai.html)
 - [価格改定・値上げ申請書をAIで作る方法](/forge-labs-blog/2026/06/28/price-revision-negotiation-ai.html)
 - [梱包仕様書・出荷明細書をAIで作る方法](/forge-labs-blog/2026/06/28/packaging-spec-shipping-doc-ai.html)
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
@@ -57,6 +58,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
 - [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
 - [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
 - [設計変更通知書（ECN）をAIで整理する方法](/forge-labs-blog/2026/06/28/design-change-notice-ai.html)
