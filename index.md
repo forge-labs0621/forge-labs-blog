@@ -164,6 +164,12 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **税務・財務**
 - [製造業の法人税・消費税申告の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/corporate-tax-filing-manufacturing-ai.html)
 - [製造業の銀行融資・金融機関対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/bank-loan-financing-manufacturing-ai.html)
+- [製造業の年末調整・源泉徴収票作成をAIで補助する方法](/forge-labs-blog/2026/06/28/year-end-adjustment-manufacturing-ai.html)
+
+**コスト削減・海外展開**
+- [製造業のVE（バリューエンジニアリング）・コスト削減活動をAIで整理する方法](/forge-labs-blog/2026/06/28/value-engineering-cost-reduction-ai.html)
+- [製造業の保険管理・リスクファイナンス書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-insurance-risk-management-ai.html)
+- [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
 
 **AI導入・チーム活用**
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
