@@ -39,6 +39,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [発注書・注文書の下書きをAIに任せる方法](/forge-labs-blog/2026/06/27/purchase-order-ai.html)
 - [仕入先・外注先評価シートをAIで作る方法](/forge-labs-blog/2026/06/27/supplier-evaluation-ai.html)
 - [納品書の文面をAIで統一する方法](/forge-labs-blog/2026/06/21/delivery-note-ai.html)
+- [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善**
 - [出荷検査・受入検査記録をAIで作る方法](/forge-labs-blog/2026/06/27/shipping-incoming-inspection-ai.html)
