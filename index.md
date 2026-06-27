@@ -64,8 +64,10 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の社内研修・教育テキストをAIで作る方法](/forge-labs-blog/2026/06/27/training-material-ai.html)
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
-**補助金・経営支援**
+**補助金・経営支援・社内管理**
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
+- [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
+- [社内通達・業務連絡文をAIで作る方法](/forge-labs-blog/2026/06/27/internal-notice-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
