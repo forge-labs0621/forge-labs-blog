@@ -45,6 +45,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [工場見学・視察受入れの案内資料をAIで作る方法](/forge-labs-blog/2026/06/28/factory-tour-reception-ai.html)
 - [製造業の技術提案書・改善提案書をAIで作る方法](/forge-labs-blog/2026/06/28/technical-proposal-improvement-ai.html)
 - [価格改定・値上げ申請書をAIで作る方法](/forge-labs-blog/2026/06/28/price-revision-negotiation-ai.html)
 - [梱包仕様書・出荷明細書をAIで作る方法](/forge-labs-blog/2026/06/28/packaging-spec-shipping-doc-ai.html)
@@ -78,6 +79,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [技能伝承・熟練技術の文書化をAIで行う方法](/forge-labs-blog/2026/06/28/skill-transfer-documentation-ai.html)
 - [採用面接評価シート・内定通知をAIで作る方法](/forge-labs-blog/2026/06/28/interview-evaluation-sheet-ai.html)
 - [労働条件通知書・雇用契約書のポイントをAIで整理する方法](/forge-labs-blog/2026/06/28/employment-contract-notice-ai.html)
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
