@@ -117,6 +117,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の作業者資格・免許・技能資格の管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/worker-qualification-license-management-ai.html)
 - [製造業の技能実習生・特定技能外国人の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/technical-intern-foreign-worker-ai.html)
 - [製造業の給与計算・社会保険手続きをAIで補助する方法](/forge-labs-blog/2026/06/28/payroll-social-insurance-manufacturing-ai.html)
+- [製造業の働き方改革・時間外労働上限規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overtime-reform-work-style-ai.html)
 
 **補助金・経営支援・社内管理**
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
