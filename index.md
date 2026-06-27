@@ -32,6 +32,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 
 **安全・設備・環境管理**
+- [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
 - [化学物質・SDS管理記録をAIで整理する方法](/forge-labs-blog/2026/06/28/sds-chemical-management-ai.html)
 - [省エネ活動記録・エネルギー管理をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-saving-management-ai.html)
@@ -45,6 +46,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [製造業の下請法対応・下請取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/subcontracting-law-compliance-ai.html)
 - [製造業の輸出入書類（英文インボイス・原産地証明）をAIで作る方法](/forge-labs-blog/2026/06/28/export-import-documents-ai.html)
 - [工場見学・視察受入れの案内資料をAIで作る方法](/forge-labs-blog/2026/06/28/factory-tour-reception-ai.html)
 - [製造業の技術提案書・改善提案書をAIで作る方法](/forge-labs-blog/2026/06/28/technical-proposal-improvement-ai.html)
