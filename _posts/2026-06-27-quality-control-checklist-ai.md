@@ -113,5 +113,13 @@ AIが出したリストを印刷して現場のベテランに見せ、「抜け
 
 品質管理チェックリストを含む、製造業の各種書類作成に使えるAIプロンプトテンプレートをまとめたセット商品をnoteで販売しています。現場ですぐ使える形に仕上げたテンプレート集です。
 
+### 関連記事
+
+- [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
+- [4M変更管理記録をAIで作る方法（ISO対応）](/forge-labs-blog/2026/06/27/4m-change-management-ai.html)
+- [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
+
+---
+
 [→ 中小製造業向けAI業務効率化プロンプトテンプレート集 Volume1（note ¥1,980）](https://note.com/jolly_okapi4595/n/n5ce0e322594e)
 [→ Volume2（受注確認書・棚卸表・クレーム対応・朝礼議事録・納品書）](https://note.com/jolly_okapi4595/n/n60c9992cbe62)
