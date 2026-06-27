@@ -44,6 +44,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [価格改定・値上げ申請書をAIで作る方法](/forge-labs-blog/2026/06/28/price-revision-negotiation-ai.html)
 - [梱包仕様書・出荷明細書をAIで作る方法](/forge-labs-blog/2026/06/28/packaging-spec-shipping-doc-ai.html)
 - [見積書の文面をAIに任せる方法](/forge-labs-blog/2026/06/21/quotation-ai.html)
 - [受注確認書をAIで作る方法](/forge-labs-blog/2026/06/21/order-confirmation-ai.html)
