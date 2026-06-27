@@ -171,6 +171,13 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の保険管理・リスクファイナンス書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-insurance-risk-management-ai.html)
 - [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
 
+**生産技術・工場設計**
+- [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
+- [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
+
+**情報セキュリティ・コンプライアンス**
+- [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
+
 **AI導入・チーム活用**
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
