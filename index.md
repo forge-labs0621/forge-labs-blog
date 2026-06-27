@@ -62,6 +62,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [製造業の顧客満足度調査（CS調査）をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-satisfaction-survey-ai.html)
 - [製品保証書・ワランティ文書をAIで作る方法](/forge-labs-blog/2026/06/28/product-warranty-guarantee-ai.html)
 - [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
 - [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
@@ -83,6 +84,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
 - [技能伝承・熟練技術の文書化をAIで行う方法](/forge-labs-blog/2026/06/28/skill-transfer-documentation-ai.html)
 - [就業規則・テレワーク規程の整備をAIで補助する方法](/forge-labs-blog/2026/06/28/work-rules-regulations-ai.html)
 - [採用面接評価シート・内定通知をAIで作る方法](/forge-labs-blog/2026/06/28/interview-evaluation-sheet-ai.html)
