@@ -89,6 +89,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
 **補助金・経営支援・社内管理**
+- [電子帳簿保存法の対応をAIで整理する方法](/forge-labs-blog/2026/06/28/digital-bookkeeping-preservation-ai.html)
+- [インボイス制度（適格請求書）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/invoice-system-manufacturing-ai.html)
 - [月次業績報告書・経営報告をAIで整理する方法](/forge-labs-blog/2026/06/28/monthly-business-report-ai.html)
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
 - [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
