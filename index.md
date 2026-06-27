@@ -46,6 +46,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [廃棄物処理記録・環境管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/waste-environmental-ai.html)
 
 **受注・購買・出荷**
+- [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
 - [製造業の下請法対応・下請取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/subcontracting-law-compliance-ai.html)
 - [製造業の輸出入書類（英文インボイス・原産地証明）をAIで作る方法](/forge-labs-blog/2026/06/28/export-import-documents-ai.html)
 - [工場見学・視察受入れの案内資料をAIで作る方法](/forge-labs-blog/2026/06/28/factory-tour-reception-ai.html)
@@ -84,6 +85,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
 - [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
 - [技能伝承・熟練技術の文書化をAIで行う方法](/forge-labs-blog/2026/06/28/skill-transfer-documentation-ai.html)
 - [就業規則・テレワーク規程の整備をAIで補助する方法](/forge-labs-blog/2026/06/28/work-rules-regulations-ai.html)
