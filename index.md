@@ -55,6 +55,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
 - [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
 - [設計変更通知書（ECN）をAIで整理する方法](/forge-labs-blog/2026/06/28/design-change-notice-ai.html)
 - [試作管理・量産移行記録をAIで整理する方法](/forge-labs-blog/2026/06/28/prototype-trial-production-ai.html)
@@ -81,6 +82,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [残業申請書・勤怠管理書類をAIで作る方法](/forge-labs-blog/2026/06/27/overtime-attendance-ai.html)
 
 **補助金・経営支援・社内管理**
+- [月次業績報告書・経営報告をAIで整理する方法](/forge-labs-blog/2026/06/28/monthly-business-report-ai.html)
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
 - [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
 - [BCP（事業継続計画）・防災計画の骨子をAIで整理する方法](/forge-labs-blog/2026/06/27/bcp-disaster-plan-ai.html)
