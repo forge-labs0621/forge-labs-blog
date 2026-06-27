@@ -52,6 +52,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
+- [設計変更通知書（ECN）をAIで整理する方法](/forge-labs-blog/2026/06/28/design-change-notice-ai.html)
 - [出荷検査・受入検査記録をAIで作る方法](/forge-labs-blog/2026/06/27/shipping-incoming-inspection-ai.html)
 - [品質成績書・検査成績書（CoC）をAIで整理する方法](/forge-labs-blog/2026/06/28/quality-certificate-ai.html)
 - [品質マニュアル・ISO 9001文書をAIで整理する方法](/forge-labs-blog/2026/06/27/quality-manual-iso-ai.html)
