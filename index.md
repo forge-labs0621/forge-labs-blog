@@ -140,6 +140,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
 
 **AI導入・チーム活用**
+- [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)
 - [製造業でChatGPTをチームに展開する方法【社内導入の手順】](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)
