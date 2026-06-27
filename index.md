@@ -34,6 +34,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 - [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
 - [製造業の生産能力・稼働率分析レポートをAIで作る方法](/forge-labs-blog/2026/06/28/production-capacity-analysis-ai.html)
+- [製造業の物流・輸配送管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/logistics-shipping-management-ai.html)
+- [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
 
 **安全・設備・環境管理**
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
