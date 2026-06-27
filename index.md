@@ -82,6 +82,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の顧客満足度調査（CS調査）をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-satisfaction-survey-ai.html)
 - [製品保証書・ワランティ文書をAIで作る方法](/forge-labs-blog/2026/06/28/product-warranty-guarantee-ai.html)
 - [製造業のリコール・製品回収対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/product-recall-safety-act-ai.html)
+- [製造業のRoHS・REACH・化学物質規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/rohs-reach-environmental-compliance-ai.html)
+- [製造業の品質コスト分析（COQ）レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/quality-cost-coq-analysis-ai.html)
 - [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
 - [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
 - [8D報告書・なぜなぜ分析をAIで整理する方法](/forge-labs-blog/2026/06/28/8d-report-whywhywhy-ai.html)
