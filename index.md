@@ -12,7 +12,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
 - [スマートフォンで製造現場のAIを使う方法【ChatGPTアプリ】](/forge-labs-blog/2026/06/27/chatgpt-smartphone-manufacturing.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
-- [中小製造業でAIを使って削れる書類作業24選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
+- [中小製造業でAIを使って削れる書類作業26選（活用事例まとめ）](/forge-labs-blog/2026/06/26/manufacturing-ai-use-cases.html)
 - [製造業の作業日報テンプレート【AIで入力する書き方つき】](/forge-labs-blog/2026/06/26/work-report-template-free.html)
 
 ---
@@ -41,6 +41,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [納品書の文面をAIで統一する方法](/forge-labs-blog/2026/06/21/delivery-note-ai.html)
 
 **品質・改善**
+- [出荷検査・受入検査記録をAIで作る方法](/forge-labs-blog/2026/06/27/shipping-incoming-inspection-ai.html)
 - [4M変更管理記録をAIで作る方法（ISO対応）](/forge-labs-blog/2026/06/27/4m-change-management-ai.html)
 - [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
@@ -48,8 +49,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
-**人材育成**
+**人材育成・採用**
 - [OJT指導記録・教育訓練記録をAIで作る方法](/forge-labs-blog/2026/06/27/ojt-training-record-ai.html)
+- [求人票・採用補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/manufacturing-recruitment-ai.html)
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
