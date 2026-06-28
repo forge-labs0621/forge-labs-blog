@@ -109,6 +109,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質マニュアル・ISO 9001文書をAIで整理する方法](/forge-labs-blog/2026/06/27/quality-manual-iso-ai.html)
 - [4M変更管理記録をAIで作る方法（ISO対応）](/forge-labs-blog/2026/06/27/4m-change-management-ai.html)
 - [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
+- [製造業の現場改善活動・改善成果報告書をAIで整理する方法](/forge-labs-blog/2026/06/28/production-site-improvement-kaizen-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
 - [製造業の顧客クレーム対応・エスカレーション書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-complaints-escalation-ai.html)（クレームエスカレーション）
@@ -146,10 +147,12 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **補助金・経営支援・社内管理**
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
+- [製造業の金融機関・IR向け業績説明書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-ir-bank-report-ai.html)
 - [製造業のKPI・ダッシュボード・経営指標をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-kpi-dashboard-ai.html)
 - [製造業の年度予算・生産能力計画をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-budget-production-plan-ai.html)
 - [製造業の中期経営計画書（3カ年計画）をAIで整理する方法](/forge-labs-blog/2026/06/28/medium-term-management-plan-ai.html)
 - [製造業のカーボンニュートラル対応・CO2排出量開示をAIで整理する方法](/forge-labs-blog/2026/06/28/carbon-neutral-ghg-manufacturing-ai.html)
+- [製造業のITシステム選定・導入計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-it-system-selection-ai.html)
 - [製造業のロボット・自動化設備導入計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/robot-automation-equipment-introduction-ai.html)
 - [製造業のDX推進計画書・IT活用報告書をAIで作る方法](/forge-labs-blog/2026/06/28/dx-promotion-plan-ai.html)
 - [電子帳簿保存法の対応をAIで整理する方法](/forge-labs-blog/2026/06/28/digital-bookkeeping-preservation-ai.html)
