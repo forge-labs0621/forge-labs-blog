@@ -143,6 +143,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の顧客クレーム対応・エスカレーション書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-complaints-escalation-ai.html)（クレームエスカレーション）
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
 - [製造業の在庫評価・棚卸差異・月末棚卸管理をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-valuation-stock-count-difference-ai.html)
+- [製造業の在庫回転率・デッドストック管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-inventory-turnover-dead-stock-ai.html)（在庫回転率分析・滞留在庫・処分計画）
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
 - [経営会議・品質会議の議事録をAIで作る方法](/forge-labs-blog/2026/06/27/management-meeting-minutes-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
@@ -179,6 +180,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のパートタイム・アルバイト管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/part-time-worker-management-manufacturing-ai.html)（パート・バイト雇用・同一労働同一賃金）
 
 **補助金・経営支援・社内管理**
+- [製造業の製品ライフサイクル管理・EOL対応書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-product-lifecycle-eol-management-ai.html)（製品廃番・後継品切り替え・顧客EOL通知）
 - [製造業の製品開発ロードマップ・技術戦略書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-product-development-roadmap-ai.html)（製品開発・技術戦略・R&Dロードマップ）
 - [製造業の福利厚生・慶弔規程・社員寮管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-welfare-benefit-management-ai.html)（福利厚生・慶弔見舞金・採用強化）
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
@@ -196,6 +198,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
 - [製造業の社内提案書・プレゼン資料をAIで整理する方法](/forge-labs-blog/2026/06/28/internal-communication-proposal-writing-ai.html)
 - [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
+- [製造業のBCP訓練・事業継続訓練の実施記録書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-bcp-drill-training-record-ai.html)（BCP訓練計画・机上演習・振り返りレポート）
 - [BCP（事業継続計画）・防災計画の骨子をAIで整理する方法](/forge-labs-blog/2026/06/27/bcp-disaster-plan-ai.html)
 - [製造業のサプライチェーンリスク・調達多様化計画書をAIで作る方法](/forge-labs-blog/2026/06/28/supply-chain-risk-bcp-ai.html)
 - [社内通達・業務連絡文をAIで作る方法](/forge-labs-blog/2026/06/27/internal-notice-ai.html)
