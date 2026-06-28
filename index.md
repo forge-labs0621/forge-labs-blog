@@ -115,6 +115,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **人材育成・採用・労務**
 - [製造業の広報・採用ブランディング・企業PR書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-branding-recruitment-pr-ai.html)
+- [製造業の展示会・見本市出展計画・営業書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-exhibition-trade-show-ai.html)
 - [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
@@ -134,6 +135,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の派遣労働者・請負業者の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/dispatch-contractor-management-ai.html)
 - [製造業の働き方改革・時間外労働上限規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overtime-reform-work-style-ai.html)
 - [製造業の労使関係・労働組合対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-relations-union-management-ai.html)
+- [製造業の年次有給休暇・出勤簿管理をAIで整理する方法](/forge-labs-blog/2026/06/28/paid-leave-attendance-management-ai.html)
 
 **補助金・経営支援・社内管理**
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
@@ -176,6 +178,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **コスト削減・海外展開**
 - [製造業のVE（バリューエンジニアリング）・コスト削減活動をAIで整理する方法](/forge-labs-blog/2026/06/28/value-engineering-cost-reduction-ai.html)
+- [製造業の原材料価格変動・仕入れコスト管理をAIで整理する方法](/forge-labs-blog/2026/06/28/raw-material-price-fluctuation-management-ai.html)
 - [製造業の保険管理・リスクファイナンス書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-insurance-risk-management-ai.html)
 - [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
 
