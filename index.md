@@ -27,6 +27,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **生産・現場管理**
 - [製造業の引き継ぎ・申し送り書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-shift-handover-ai.html)（交代勤務・引き継ぎ書・申し送り標準化）
+- [製造業の生産計画会議・需給調整会議書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-production-planning-meeting-ai.html)（週次計画会議・需給バランス表・生産調整指示）
 - [製造業の生産会議・品質会議・月次定例会の議事録をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-meeting-agenda-ai.html)（生産会議・品質会議・経営報告）
 - [製造業のMRO（保全・修理・オペレーション用品）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-mro-consumable-management-ai.html)（工具・消耗品・切削油管理）
 - [製造業のAIプロンプト テンプレートの選び方と使い分け【書類別ガイド】](/forge-labs-blog/2026/06/28/manufacturing-ai-prompt-template-selection.html)（テンプレート選び方）
@@ -154,6 +155,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
 - [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
 - [製造業の検査員・品質スタッフの教育訓練管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-inspector-quality-staff-training-ai.html)（検査員認定・目の検定・技能認定テスト）
+- [製造業の多能工化・スキルマトリックス管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-multi-skill-matrix-management-ai.html)（スキルマトリックス・多能工化計画・OJTロードマップ）
 - [技能伝承・熟練技術の文書化をAIで行う方法](/forge-labs-blog/2026/06/28/skill-transfer-documentation-ai.html)
 - [就業規則・テレワーク規程の整備をAIで補助する方法](/forge-labs-blog/2026/06/28/work-rules-regulations-ai.html)
 - [採用面接評価シート・内定通知をAIで作る方法](/forge-labs-blog/2026/06/28/interview-evaluation-sheet-ai.html)
@@ -201,6 +203,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
+- [製造業の資金繰り管理・キャッシュフロー書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-cash-flow-funding-management-ai.html)（資金繰り表・売掛金回収管理・銀行対応）
 - [製造業の損益分岐点分析・採算管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-break-even-analysis-ai.html)（固変分解・BEP計算・目標利益逆算）
 - [製造業の標準原価・原価差異分析書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-standard-cost-variance-analysis-ai.html)（材料費差異・労務費差異・差異分析レポート）
 - [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
