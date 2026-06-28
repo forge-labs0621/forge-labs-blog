@@ -9,9 +9,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
-- [製造業でAI（ChatGPT）を使って効率化できる書類200選【2026年最新版】](/forge-labs-blog/2026/06/28/manufacturing-200-use-cases.html)（★★最新版・全記事まとめ★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類250選【2026年最新版】](/forge-labs-blog/2026/06/29/manufacturing-250-use-cases.html)（★★最新版・全記事まとめ★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類200選](/forge-labs-blog/2026/06/28/manufacturing-200-use-cases.html)（旧まとめ）
 - [製造業でAI（ChatGPT）を使って効率化できる書類180選](/forge-labs-blog/2026/06/28/manufacturing-180-use-cases.html)（旧まとめ）
-- [製造業でAI（ChatGPT）を使って効率化できる書類170選](/forge-labs-blog/2026/06/28/manufacturing-ai-170-use-cases.html)（旧々まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
 - [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
@@ -110,6 +110,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [ISO 45001（労働安全衛生マネジメント）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso45001-safety-management-ai.html)
 - [製造業の設計審査（デザインレビュー/DR）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/design-review-dr-manufacturing-ai.html)
 - [製造業のQCサークル・改善活動の発表資料をAIで整理する方法](/forge-labs-blog/2026/06/28/qc-circle-kaizen-activity-ai.html)
+- [製造業の品質文化醸成・品質意識向上活動書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-quality-culture-awareness-ai.html)（品質方針浸透・品質教育年間計画・品質ニュースレター）
 - [製造業の外注先・仕入先品質管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-quality-management-ai.html)
 - [製造業の材料証明書・ミルシート管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-material-mill-certificate-management-ai.html)（ミルシート・材料台帳・チャージ番号管理）
 - [製造業のロット管理・トレーサビリティをAIで整理する方法](/forge-labs-blog/2026/06/28/lot-traceability-management-ai.html)
@@ -254,6 +255,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の研削・切削加工管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-grinding-cutting-process-ai.html)（円筒研削・砥石修正管理・精度トレンド）
 - [製造業の生産ロス分析・OEE（設備総合効率）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-loss-analysis-oee-ai.html)（OEE計算・6大ロス・月次レポート）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
+- [製造業の自主保全活動（オペレーターによる設備保全）書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-autonomous-maintenance-jishu-hozen-ai.html)（TPM自主保全ステップ・清掃基準・給油基準・日常点検）
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業の受注生産と見込み生産の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-make-to-order-vs-stock-production-ai.html)（MTO/MTS混在・安全在庫基準・生産形態区分）
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
