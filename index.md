@@ -9,8 +9,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
-- [製造業AIプロンプト活用事例300選まとめ【中小製造業向け完全ガイド】](/forge-labs-blog/2026/06/29/manufacturing-300-use-cases-hub.html)（★★最新版・全記事まとめ★★）
-- [製造業でAI（ChatGPT）を使って効率化できる書類250選【2026年最新版】](/forge-labs-blog/2026/06/29/manufacturing-250-use-cases.html)（250選まとめ）
+- [製造業AIプロンプト活用事例350選【完全インデックス】](/forge-labs-blog/2026/06/29/manufacturing-350-achievement-hub.html)（★★最新版・350記事マイルストーン達成★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類350選【2026年最新版】](/forge-labs-blog/2026/06/29/manufacturing-350-use-cases-hub.html)（350選まとめ）
+- [製造業AIプロンプト活用事例300選まとめ【中小製造業向け完全ガイド】](/forge-labs-blog/2026/06/29/manufacturing-300-use-cases-hub.html)（300選まとめ）
 - [製造業でAI（ChatGPT）を使って効率化できる書類200選](/forge-labs-blog/2026/06/28/manufacturing-200-use-cases.html)（旧まとめ）
 - [製造業でAI（ChatGPT）を使って効率化できる書類180選](/forge-labs-blog/2026/06/28/manufacturing-180-use-cases.html)（旧まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
@@ -74,6 +75,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の保全コスト管理・スペアパーツ予算書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-maintenance-cost-budget-spare-ai.html)（保全予算・突発修理費分析・次年度計画）
 - [製造業の法定定期検査・年次点検の管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-statutory-annual-inspection-management-ai.html)（法定点検・年次点検・クレーン・圧力容器）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
+- [製造業のISO14001・環境マネジメントシステム書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-iso14001-environmental-management-ai.html)（環境側面・著しさ評価・環境目標更新）
 - [製造業の労働災害・事故調査記録をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-accident-investigation-ai.html)
 - [製造業のフォークリフト・クレーン安全管理・作業記録をAIで整理する方法](/forge-labs-blog/2026/06/28/forklift-crane-operation-record-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
@@ -100,6 +102,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のサプライヤーポータル・仕入先情報共有書類をAIで整理する方法](/forge-labs-blog/2026/06/28/supplier-portal-information-sharing-ai.html)（仕入先情報共有・購買条件）
 - [製造業の協力工場育成・下請け企業への指導書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-subcontractor-development-training-ai.html)（品質指導書・育成計画・改善指示書）
 - [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
+- [製造業の外注仕様書・外注管理規程書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-subcontract-management-spec-ai.html)（外注仕様書・品質要求・受入検査基準）
 - [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
 - [製造業の下請法対応・下請取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/subcontracting-law-compliance-ai.html)
@@ -126,6 +129,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **品質・改善・ISO対応**
 - [製造業のクリーンルーム・防塵管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/cleanroom-dust-control-manufacturing-ai.html)（クリーンルーム・異物管理・食品）
 - [IATF 16949の書類・審査対応をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/iatf16949-automotive-quality-ai.html)
+- [製造業の自動車Tier2・サプライヤー品質マニュアル書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-quality-manual-tier2-automotive-ai.html)（IATF16949・MSA・SPC・PFMEA CSR対応）
 - [食品製造業のHACCP・衛生管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/haccp-food-manufacturing-ai.html)
 - [製造業の顧客工場監査（第二者監査）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-audit-second-party-ai.html)
 - [製造業のRoHS・REACH・化学物質規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/rohs-reach-environmental-compliance-ai.html)
@@ -173,6 +177,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
 - [製造業の現場改善活動・改善成果報告書をAIで整理する方法](/forge-labs-blog/2026/06/28/production-site-improvement-kaizen-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
+- [製造業の改善提案・カイゼン活動書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-workplace-improvement-kaizen-proposal-ai.html)（刃具寿命・提案書・効果測定）
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
 - [製造業のクレーム予防・流出不良ゼロ活動書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-complaint-prevention-quality-assurance-ai.html)（流出不良ゼロ・ポカヨケ・出荷ゲート）
 - [製造業の顧客クレーム対応・エスカレーション書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-complaints-escalation-ai.html)（クレームエスカレーション）
