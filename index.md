@@ -45,6 +45,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の工場長・現場管理者の日常管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-foreman-supervisor-daily-tasks-ai.html)（工場長日次報告・班長管理・KPIサマリー）
 - [製造業のプレス加工・金型管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-press-die-management-ai.html)（プレス金型・ショット管理・型費）
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
+- [製造業のタクトタイム・サイクルタイム管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-takt-time-cycle-time-ai.html)（タクトタイム計算・ラインバランス・ボトルネック改善）
 - [製造業のJIT・かんばん生産管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-jit-kanban-production-ai.html)（かんばん設計・枚数計算・循環管理）
 - [製造業の切削工具管理・工具台帳書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-cutting-tool-management-ai.html)（工具台帳・工具寿命基準・工具費削減）
 - [製造業のNCプログラム・工作機械プログラム管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-nc-program-version-management-ai.html)（NCプログラム台帳・版数管理・バックアップ）
@@ -147,6 +148,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の後継者育成・幹部候補教育計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-succession-training-plan-ai.html)
 - [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
+- [製造業の新入社員・新人作業者のオンボーディング計画書をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-new-employee-onboarding-plan-ai.html)（3ヶ月研修計画・習熟度チェック・独り立ち基準）
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
 - [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
 - [製造業の検査員・品質スタッフの教育訓練管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-inspector-quality-staff-training-ai.html)（検査員認定・目の検定・技能認定テスト）
@@ -197,6 +199,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
+- [製造業の損益分岐点分析・採算管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-break-even-analysis-ai.html)（固変分解・BEP計算・目標利益逆算）
 - [製造業の標準原価・原価差異分析書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-standard-cost-variance-analysis-ai.html)（材料費差異・労務費差異・差異分析レポート）
 - [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
 - [製造業の設備投資評価・ROI計算レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-finance-roi-report-ai.html)
