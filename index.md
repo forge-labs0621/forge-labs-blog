@@ -61,6 +61,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のフォークリフト・クレーン安全管理・作業記録をAIで整理する方法](/forge-labs-blog/2026/06/28/forklift-crane-operation-record-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
 - [化学物質・SDS管理記録をAIで整理する方法](/forge-labs-blog/2026/06/28/sds-chemical-management-ai.html)
+- [製造業の電気代・エネルギーコスト削減計画書をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-energy-cost-reduction-electricity-ai.html)（デマンド管理・LED化投資回収・省エネ月次管理）
 - [省エネ活動記録・エネルギー管理をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-saving-management-ai.html)
 - [安全衛生委員会議事録をAIで作る方法](/forge-labs-blog/2026/06/27/safety-committee-minutes-ai.html)
 - [KY活動（危険予知）記録をAIで作る方法](/forge-labs-blog/2026/06/27/ky-safety-record-ai.html)
@@ -134,6 +135,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の現場改善活動・改善成果報告書をAIで整理する方法](/forge-labs-blog/2026/06/28/production-site-improvement-kaizen-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
+- [製造業のクレーム予防・流出不良ゼロ活動書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-complaint-prevention-quality-assurance-ai.html)（流出不良ゼロ・ポカヨケ・出荷ゲート）
 - [製造業の顧客クレーム対応・エスカレーション書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-complaints-escalation-ai.html)（クレームエスカレーション）
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
 - [製造業の在庫評価・棚卸差異・月末棚卸管理をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-valuation-stock-count-difference-ai.html)
@@ -244,6 +246,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の生産ロス分析・OEE（設備総合効率）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-loss-analysis-oee-ai.html)（OEE計算・6大ロス・月次レポート）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
+- [製造業の受注生産と見込み生産の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-make-to-order-vs-stock-production-ai.html)（MTO/MTS混在・安全在庫基準・生産形態区分）
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
 - [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
 - [製造業の標準時間・工数設定をAIで整理する方法](/forge-labs-blog/2026/06/28/standard-time-man-hour-setting-ai.html)
