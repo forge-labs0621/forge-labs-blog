@@ -100,6 +100,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の設計審査（デザインレビュー/DR）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/design-review-dr-manufacturing-ai.html)
 - [製造業のQCサークル・改善活動の発表資料をAIで整理する方法](/forge-labs-blog/2026/06/28/qc-circle-kaizen-activity-ai.html)
 - [製造業の外注先・仕入先品質管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-quality-management-ai.html)
+- [製造業の材料証明書・ミルシート管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-material-mill-certificate-management-ai.html)（ミルシート・材料台帳・チャージ番号管理）
 - [製造業のロット管理・トレーサビリティをAIで整理する方法](/forge-labs-blog/2026/06/28/lot-traceability-management-ai.html)
 - [製造業の測定器・ゲージ校正管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/gauge-calibration-management-ai.html)
 - [PPAP・APQP対応書類をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/ppap-apqp-automotive-ai.html)
@@ -141,6 +142,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
 - [製造業の人事評価シート・目標管理（MBO）をAIで整理する方法](/forge-labs-blog/2026/06/28/performance-evaluation-mbo-ai.html)
+- [製造業の検査員・品質スタッフの教育訓練管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-inspector-quality-staff-training-ai.html)（検査員認定・目の検定・技能認定テスト）
 - [技能伝承・熟練技術の文書化をAIで行う方法](/forge-labs-blog/2026/06/28/skill-transfer-documentation-ai.html)
 - [就業規則・テレワーク規程の整備をAIで補助する方法](/forge-labs-blog/2026/06/28/work-rules-regulations-ai.html)
 - [採用面接評価シート・内定通知をAIで作る方法](/forge-labs-blog/2026/06/28/interview-evaluation-sheet-ai.html)
@@ -225,6 +227,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の生産ライン立ち上げ・初物管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-line-startup-first-article-ai.html)（ライン立ち上げ・初物確認・量産移行基準）
 - [製造業の鋳造・鍛造工程管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-casting-forging-process-ai.html)（ダイカスト・鋳造条件記録・引け巣管理）
 - [製造業の機械加工精度管理・寸法管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-machining-accuracy-dimension-ai.html)（NC旋盤・工具摩耗管理・寸法ドリフト）
+- [製造業の塗装工程管理・色差管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-painting-coating-process-ai.html)（塗装仕様書・色差ΔE基準・塗膜厚検査）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
