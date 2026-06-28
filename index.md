@@ -222,6 +222,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の溶接品質管理・溶接技能者管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-welding-quality-management-ai.html)（溶接品質・WPS・技能者資格）
 - [製造業の表面処理管理書類（めっき・塗装・熱処理）をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-surface-treatment-management-ai.html)（めっき・塗装・熱処理外注）
 - [製造業の組立工程管理・組立手順書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-assembly-process-management-ai.html)（組立SOP・トルク管理・組立検査）
+- [製造業の生産ライン立ち上げ・初物管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-line-startup-first-article-ai.html)（ライン立ち上げ・初物確認・量産移行基準）
+- [製造業の鋳造・鍛造工程管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-casting-forging-process-ai.html)（ダイカスト・鋳造条件記録・引け巣管理）
+- [製造業の機械加工精度管理・寸法管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-machining-accuracy-dimension-ai.html)（NC旋盤・工具摩耗管理・寸法ドリフト）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
