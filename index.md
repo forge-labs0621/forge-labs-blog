@@ -137,6 +137,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の働き方改革・時間外労働上限規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overtime-reform-work-style-ai.html)
 - [製造業の労使関係・労働組合対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-relations-union-management-ai.html)
 - [製造業の年次有給休暇・出勤簿管理をAIで整理する方法](/forge-labs-blog/2026/06/28/paid-leave-attendance-management-ai.html)
+- [製造業のシフト管理・人員配置計画をAIで整理する方法](/forge-labs-blog/2026/06/28/shift-scheduling-workforce-planning-ai.html)
 
 **補助金・経営支援・社内管理**
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
@@ -144,6 +145,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の年度予算・生産能力計画をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-budget-production-plan-ai.html)
 - [製造業の中期経営計画書（3カ年計画）をAIで整理する方法](/forge-labs-blog/2026/06/28/medium-term-management-plan-ai.html)
 - [製造業のカーボンニュートラル対応・CO2排出量開示をAIで整理する方法](/forge-labs-blog/2026/06/28/carbon-neutral-ghg-manufacturing-ai.html)
+- [製造業のロボット・自動化設備導入計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/robot-automation-equipment-introduction-ai.html)
 - [製造業のDX推進計画書・IT活用報告書をAIで作る方法](/forge-labs-blog/2026/06/28/dx-promotion-plan-ai.html)
 - [電子帳簿保存法の対応をAIで整理する方法](/forge-labs-blog/2026/06/28/digital-bookkeeping-preservation-ai.html)
 - [インボイス制度（適格請求書）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/invoice-system-manufacturing-ai.html)
@@ -184,6 +186,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
 
 **生産技術・工場設計**
+- [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
 - [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
 - [製造業の標準時間・工数設定をAIで整理する方法](/forge-labs-blog/2026/06/28/standard-time-man-hour-setting-ai.html)
