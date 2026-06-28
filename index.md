@@ -9,7 +9,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
-- [製造業でAI（ChatGPT）を使って効率化できる書類100選【完全まとめ】](/forge-labs-blog/2026/06/28/manufacturing-ai-100-use-cases.html)（★全記事まとめ）
+- [製造業でAI（ChatGPT）を使って効率化できる書類150選【2026年最新版】](/forge-labs-blog/2026/06/28/manufacturing-150-use-cases.html)（★★最新版・全記事まとめ★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類100選【完全まとめ】](/forge-labs-blog/2026/06/28/manufacturing-ai-100-use-cases.html)（旧まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
 - [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
