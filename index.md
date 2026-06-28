@@ -238,6 +238,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の標準時間・工数設定をAIで整理する方法](/forge-labs-blog/2026/06/28/standard-time-man-hour-setting-ai.html)
 - [製造業の電力契約・受電設備管理をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-power-electricity-management-ai.html)
 - [製造業の設備更新計画・廃棄処分書類をAIで整理する方法](/forge-labs-blog/2026/06/28/equipment-renewal-disposal-plan-ai.html)
+- [製造業の配管・ユーティリティ設備管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-utility-piping-management-ai.html)（圧縮空気・エア漏れ・コンプレッサー保全）
+- [製造業の電気保全・電気設備管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-electrical-maintenance-management-ai.html)（絶縁測定・高圧設備・電気設備台帳）
+- [製造業の工場空調・温湿度管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-hvac-temperature-humidity-control-ai.html)（測定室温湿度・空調点検・逸脱対応）
 
 **情報セキュリティ・コンプライアンス**
 - [製造業の法令点検チェックリスト・コンプライアンス自己診断をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-legal-compliance-checklist-ai.html)（年次法令点検・自己診断）
