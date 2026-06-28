@@ -9,8 +9,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
-- [製造業でAI（ChatGPT）を使って効率化できる書類170選【2026年最新版】](/forge-labs-blog/2026/06/28/manufacturing-ai-170-use-cases.html)（★★最新版・全記事まとめ★★）
-- [製造業でAI（ChatGPT）を使って効率化できる書類150選](/forge-labs-blog/2026/06/28/manufacturing-150-use-cases.html)（旧まとめ）
+- [製造業でAI（ChatGPT）を使って効率化できる書類180選【2026年7月最新版】](/forge-labs-blog/2026/06/28/manufacturing-180-use-cases.html)（★★最新版・全記事まとめ★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類170選](/forge-labs-blog/2026/06/28/manufacturing-ai-170-use-cases.html)（旧まとめ）
+- [製造業でAI（ChatGPT）を使って効率化できる書類150選](/forge-labs-blog/2026/06/28/manufacturing-150-use-cases.html)（旧々まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
 - [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
@@ -194,6 +195,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の原材料価格変動・仕入れコスト管理をAIで整理する方法](/forge-labs-blog/2026/06/28/raw-material-price-fluctuation-management-ai.html)
 - [製造業の保険管理・リスクファイナンス書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-insurance-risk-management-ai.html)
 - [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
+
+**コスト削減・ムダ排除**
+- [製造業の7つのムダ排除・ロス削減計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-waste-reduction-muda-ai.html)（7つのムダ・手待ち・運搬改善）
 
 **生産技術・工場設計**
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
