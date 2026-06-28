@@ -42,6 +42,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
 **安全・設備・環境管理**
+- [製造業の避難訓練・防火訓練の実施記録をAIで整理する方法](/forge-labs-blog/2026/06/28/fire-drill-evacuation-training-manufacturing-ai.html)（避難訓練・消防計画）
 - [製造業の保全部品・スペアパーツ管理をAIで整理する方法](/forge-labs-blog/2026/06/28/maintenance-spare-parts-management-ai.html)（保全部品）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
 - [製造業の労働災害・事故調査記録をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-accident-investigation-ai.html)
@@ -61,6 +62,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
+- [製造業の製品説明書・取扱説明書（取説）をAIで整理する方法](/forge-labs-blog/2026/06/28/product-manual-instruction-sheet-ai.html)（取扱説明書・PL法対応）
 - [製造業のサプライヤーポータル・仕入先情報共有書類をAIで整理する方法](/forge-labs-blog/2026/06/28/supplier-portal-information-sharing-ai.html)（仕入先情報共有・購買条件）
 - [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
 - [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
@@ -225,6 +227,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の省エネ診断・エネルギー監査書類をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-audit-saving-diagnosis-ai.html)
 
 **AI導入・チーム活用**
+- [製造業の間接部門の業務効率化・ペーパーレス化をAIで進める方法](/forge-labs-blog/2026/06/28/manufacturing-indirect-department-work-reform-ai.html)（間接部門効率化・ペーパーレス）
 - [製造業の英語対応・技術文書の英語化をAIで行う方法](/forge-labs-blog/2026/06/28/manufacturing-english-technical-document-ai.html)（英語化・海外顧客対応）
 - [製造業の社内報・朝礼スピーチ・表彰制度書類をAIで整理する方法](/forge-labs-blog/2026/06/28/internal-communication-newsletter-ai.html)（社内報・表彰・朝礼）
 - [製造業でChatGPTを使いこなす上級テクニック10選](/forge-labs-blog/2026/06/28/manufacturing-ai-chatgpt-advanced-tips.html)（上級テクニック）
