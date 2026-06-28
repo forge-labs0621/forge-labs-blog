@@ -27,6 +27,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **生産・現場管理**
 - [製造業の引き継ぎ・申し送り書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-shift-handover-ai.html)（交代勤務・引き継ぎ書・申し送り標準化）
+- [製造業の緊急受注・特急対応書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-urgent-order-rush-response-ai.html)（特急受注票・可否確認・追加費用根拠書）
 - [製造業の生産計画会議・需給調整会議書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-production-planning-meeting-ai.html)（週次計画会議・需給バランス表・生産調整指示）
 - [製造業の生産会議・品質会議・月次定例会の議事録をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-meeting-agenda-ai.html)（生産会議・品質会議・経営報告）
 - [製造業のMRO（保全・修理・オペレーション用品）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-mro-consumable-management-ai.html)（工具・消耗品・切削油管理）
@@ -38,6 +39,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [生産スケジュール・工程表をAIで整理する方法](/forge-labs-blog/2026/06/27/production-schedule-ai.html)
 - [作業指示書・ピッキングリストをAIで作る方法](/forge-labs-blog/2026/06/28/work-instruction-picking-ai.html)
 - [作業標準書・手順書をAIで作る方法](/forge-labs-blog/2026/06/27/sop-work-instruction-ai.html)
+- [製造業の5S診断シート・職場環境評価書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-5s-audit-workplace-evaluation-ai.html)（5S採点基準・月次スコア・改善指示書）
 - [5S活動チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/5s-checklist-ai.html)
 - [品質管理チェックリストをAIで作る方法](/forge-labs-blog/2026/06/27/quality-control-checklist-ai.html)
 - [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
@@ -47,6 +49,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のプレス加工・金型管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-press-die-management-ai.html)（プレス金型・ショット管理・型費）
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
 - [製造業のタクトタイム・サイクルタイム管理書類をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-takt-time-cycle-time-ai.html)（タクトタイム計算・ラインバランス・ボトルネック改善）
+- [製造業のバリューストリームマップ・プロセスフロー図をAIで整理する方法](/forge-labs-blog/2026/06/29/manufacturing-value-stream-mapping-process-flow-ai.html)（VSM分析・在庫滞留特定・将来状態設計）
 - [製造業のJIT・かんばん生産管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-jit-kanban-production-ai.html)（かんばん設計・枚数計算・循環管理）
 - [製造業の切削工具管理・工具台帳書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-cutting-tool-management-ai.html)（工具台帳・工具寿命基準・工具費削減）
 - [製造業のNCプログラム・工作機械プログラム管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-nc-program-version-management-ai.html)（NCプログラム台帳・版数管理・バックアップ）
