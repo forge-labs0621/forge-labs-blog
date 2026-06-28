@@ -24,6 +24,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 ### 書類種類別ガイド
 
 **生産・現場管理**
+- [製造業のAIプロンプト テンプレートの選び方と使い分け【書類別ガイド】](/forge-labs-blog/2026/06/28/manufacturing-ai-prompt-template-selection.html)（テンプレート選び方）
 - [製造業の在庫管理・安全在庫・発注点をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-safety-stock-management-ai.html)
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
@@ -39,6 +40,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
 **安全・設備・環境管理**
+- [製造業の保全部品・スペアパーツ管理をAIで整理する方法](/forge-labs-blog/2026/06/28/maintenance-spare-parts-management-ai.html)（保全部品）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
 - [化学物質・SDS管理記録をAIで整理する方法](/forge-labs-blog/2026/06/28/sds-chemical-management-ai.html)
