@@ -41,6 +41,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
 - [製造業の生産能力・稼働率分析レポートをAIで作る方法](/forge-labs-blog/2026/06/28/production-capacity-analysis-ai.html)
 - [製造業の物流・輸配送管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/logistics-shipping-management-ai.html)
+- [製造業の工場長・現場管理者の日常管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-foreman-supervisor-daily-tasks-ai.html)（工場長日次報告・班長管理・KPIサマリー）
 - [製造業のプレス加工・金型管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-press-die-management-ai.html)（プレス金型・ショット管理・型費）
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
@@ -220,6 +221,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の増産対応・生産能力増強計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-capacity-expansion-plan-ai.html)（増産対応・ボトルネック解消）
 - [製造業の溶接品質管理・溶接技能者管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-welding-quality-management-ai.html)（溶接品質・WPS・技能者資格）
 - [製造業の表面処理管理書類（めっき・塗装・熱処理）をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-surface-treatment-management-ai.html)（めっき・塗装・熱処理外注）
+- [製造業の組立工程管理・組立手順書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-assembly-process-management-ai.html)（組立SOP・トルク管理・組立検査）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
@@ -230,6 +232,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **情報セキュリティ・コンプライアンス**
 - [製造業の法令点検チェックリスト・コンプライアンス自己診断をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-legal-compliance-checklist-ai.html)（年次法令点検・自己診断）
+- [製造業の3次元測定・精密測定の記録書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-3d-measurement-inspection-ai.html)（CMM測定・測定計画書・測定結果報告書）
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
 - [製造業の法令遵守・コンプライアンス確認書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-compliance-legal-check-ai.html)
 - [製造業の図面管理・技術文書管理体制をAIで整理する方法](/forge-labs-blog/2026/06/28/drawing-management-document-control-ai.html)
