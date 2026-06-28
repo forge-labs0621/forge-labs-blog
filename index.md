@@ -55,6 +55,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
+- [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
 - [製造業の下請法対応・下請取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/subcontracting-law-compliance-ai.html)
 - [製造業の輸出入書類（英文インボイス・原産地証明）をAIで作る方法](/forge-labs-blog/2026/06/28/export-import-documents-ai.html)
@@ -185,6 +186,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の省エネ診断・エネルギー監査書類をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-audit-saving-diagnosis-ai.html)
 
 **AI導入・チーム活用**
+- [製造業でChatGPTを使いこなす上級テクニック10選](/forge-labs-blog/2026/06/28/manufacturing-ai-chatgpt-advanced-tips.html)（上級テクニック）
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)
