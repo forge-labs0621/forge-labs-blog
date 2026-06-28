@@ -201,6 +201,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **コスト削減・ムダ排除**
 - [製造業の7つのムダ排除・ロス削減計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-waste-reduction-muda-ai.html)（7つのムダ・手待ち・運搬改善）
 - [製造業の防錆・梱包仕様・長期保管管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-rust-prevention-packaging-ai.html)（防錆・梱包・出荷品質）
+- [製造業の固定費削減・間接費管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/fixed-cost-indirect-cost-management-ai.html)（固定費・間接費・電気代削減）
 
 **生産技術・工場設計**
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
@@ -224,6 +225,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の省エネ診断・エネルギー監査書類をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-audit-saving-diagnosis-ai.html)
 
 **AI導入・チーム活用**
+- [製造業の英語対応・技術文書の英語化をAIで行う方法](/forge-labs-blog/2026/06/28/manufacturing-english-technical-document-ai.html)（英語化・海外顧客対応）
+- [製造業の社内報・朝礼スピーチ・表彰制度書類をAIで整理する方法](/forge-labs-blog/2026/06/28/internal-communication-newsletter-ai.html)（社内報・表彰・朝礼）
 - [製造業でChatGPTを使いこなす上級テクニック10選](/forge-labs-blog/2026/06/28/manufacturing-ai-chatgpt-advanced-tips.html)（上級テクニック）
 - [製造業のサイバーセキュリティ・工場OTセキュリティ対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-cybersecurity-ot-ai.html)
 - [製造業でChatGPTを使い始めるための完全ガイド（入門者向け）](/forge-labs-blog/2026/06/26/chatgpt-manufacturing-beginner-guide.html)
