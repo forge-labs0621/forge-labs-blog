@@ -62,6 +62,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
+- [製造業の購買戦略・調達コスト分析書類をAIで整理する方法](/forge-labs-blog/2026/06/28/purchasing-strategy-procurement-cost-ai.html)（購買戦略・TCO分析・グローバル調達）
 - [製造業の製品説明書・取扱説明書（取説）をAIで整理する方法](/forge-labs-blog/2026/06/28/product-manual-instruction-sheet-ai.html)（取扱説明書・PL法対応）
 - [製造業のサプライヤーポータル・仕入先情報共有書類をAIで整理する方法](/forge-labs-blog/2026/06/28/supplier-portal-information-sharing-ai.html)（仕入先情報共有・購買条件）
 - [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
@@ -83,6 +84,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [請求書・送付状をAIで作る方法](/forge-labs-blog/2026/06/27/invoice-ai.html)
 
 **品質・改善・ISO対応**
+- [製造業のクリーンルーム・防塵管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/cleanroom-dust-control-manufacturing-ai.html)（クリーンルーム・異物管理・食品）
 - [IATF 16949の書類・審査対応をAIで整理する方法（自動車部品サプライヤー向け）](/forge-labs-blog/2026/06/28/iatf16949-automotive-quality-ai.html)
 - [食品製造業のHACCP・衛生管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/haccp-food-manufacturing-ai.html)
 - [製造業の顧客工場監査（第二者監査）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-audit-second-party-ai.html)
@@ -221,6 +223,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
 
 **健康・助成金・省エネ**
+- [製造業の定期健康診断・特定業務従事者健診の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/health-checkup-industrial-hygiene-ai.html)（定期健診・特殊健診・有機溶剤）
 - [製造業のストレスチェック・メンタルヘルス対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/occupational-health-stress-check-ai.html)
 - [製造業の健康管理・産業医対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/health-management-industrial-doctor-ai.html)
 - [製造業が使える雇用助成金・補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/28/employment-subsidy-grant-manufacturing-ai.html)
