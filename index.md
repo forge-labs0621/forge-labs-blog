@@ -217,6 +217,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の固定費削減・間接費管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/fixed-cost-indirect-cost-management-ai.html)（固定費・間接費・電気代削減）
 
 **生産技術・工場設計**
+- [製造業の増産対応・生産能力増強計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-capacity-expansion-plan-ai.html)（増産対応・ボトルネック解消）
+- [製造業の溶接品質管理・溶接技能者管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-welding-quality-management-ai.html)（溶接品質・WPS・技能者資格）
+- [製造業の表面処理管理書類（めっき・塗装・熱処理）をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-surface-treatment-management-ai.html)（めっき・塗装・熱処理外注）
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
