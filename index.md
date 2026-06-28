@@ -41,6 +41,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の内示・仮受注・確定受注の管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/forecast-order-management-ai.html)
 - [製造業の生産能力・稼働率分析レポートをAIで作る方法](/forge-labs-blog/2026/06/28/production-capacity-analysis-ai.html)
 - [製造業の物流・輸配送管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/logistics-shipping-management-ai.html)
+- [製造業のプレス加工・金型管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-press-die-management-ai.html)（プレス金型・ショット管理・型費）
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
@@ -132,6 +133,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **人材育成・採用・労務**
 - [製造業の広報・採用ブランディング・企業PR書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-branding-recruitment-pr-ai.html)
+- [製造業の顧客関係管理（CRM）・顧客訪問計画をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-customer-relationship-management-ai.html)（顧客管理・訪問計画・受注拡大）
 - [製造業の展示会・見本市出展計画・営業書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-exhibition-trade-show-ai.html)
 - [製造業の後継者育成・幹部候補教育計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-succession-training-plan-ai.html)
 - [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
@@ -224,6 +226,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の設備更新計画・廃棄処分書類をAIで整理する方法](/forge-labs-blog/2026/06/28/equipment-renewal-disposal-plan-ai.html)
 
 **情報セキュリティ・コンプライアンス**
+- [製造業の法令点検チェックリスト・コンプライアンス自己診断をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-legal-compliance-checklist-ai.html)（年次法令点検・自己診断）
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
 - [製造業の法令遵守・コンプライアンス確認書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-compliance-legal-check-ai.html)
 - [製造業の図面管理・技術文書管理体制をAIで整理する方法](/forge-labs-blog/2026/06/28/drawing-management-document-control-ai.html)
