@@ -30,6 +30,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の生産会議・品質会議・月次定例会の議事録をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-meeting-agenda-ai.html)（生産会議・品質会議・経営報告）
 - [製造業のMRO（保全・修理・オペレーション用品）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-mro-consumable-management-ai.html)（工具・消耗品・切削油管理）
 - [製造業のAIプロンプト テンプレートの選び方と使い分け【書類別ガイド】](/forge-labs-blog/2026/06/28/manufacturing-ai-prompt-template-selection.html)（テンプレート選び方）
+- [製造業の倉庫管理・製品保管書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-warehouse-product-storage-ai.html)（ロケーション管理・FIFO・危険物保管）
 - [製造業の在庫管理・安全在庫・発注点をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-safety-stock-management-ai.html)
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
 - [月次生産報告書をAIで作る方法](/forge-labs-blog/2026/06/27/monthly-production-report-ai.html)
@@ -110,6 +111,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のリコール・製品回収対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/product-recall-safety-act-ai.html)
 - [製造業のRoHS・REACH・化学物質規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/rohs-reach-environmental-compliance-ai.html)
 - [製造業の品質コスト分析（COQ）レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/quality-cost-coq-analysis-ai.html)
+- [製造業の製品試験・試験設備管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-product-test-equipment-management-ai.html)（耐久試験・環境試験・試験報告書）
 - [製造業の各種認証試験・第三者試験機関対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/quality-certification-test-report-ai.html)
 - [ISO内部監査の準備書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso-internal-audit-preparation-ai.html)
 - [年間品質計画書・品質目標設定書をAIで整理する方法](/forge-labs-blog/2026/06/28/annual-quality-plan-ai.html)
@@ -247,6 +249,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の3次元測定・精密測定の記録書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-3d-measurement-inspection-ai.html)（CMM測定・測定計画書・測定結果報告書）
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
 - [製造業の法令遵守・コンプライアンス確認書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-compliance-legal-check-ai.html)
+- [製造業の品番体系・図面管理規則をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-part-number-drawing-management-ai.html)（品番採番ルール・図面番号体系・改訂管理）
 - [製造業の図面管理・技術文書管理体制をAIで整理する方法](/forge-labs-blog/2026/06/28/drawing-management-document-control-ai.html)
 - [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
 
