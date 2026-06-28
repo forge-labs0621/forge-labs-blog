@@ -44,6 +44,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の保全部品・スペアパーツ管理をAIで整理する方法](/forge-labs-blog/2026/06/28/maintenance-spare-parts-management-ai.html)（保全部品）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
 - [製造業の労働災害・事故調査記録をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-accident-investigation-ai.html)
+- [製造業のフォークリフト・クレーン安全管理・作業記録をAIで整理する方法](/forge-labs-blog/2026/06/28/forklift-crane-operation-record-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
 - [化学物質・SDS管理記録をAIで整理する方法](/forge-labs-blog/2026/06/28/sds-chemical-management-ai.html)
 - [省エネ活動記録・エネルギー管理をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-saving-management-ai.html)
@@ -110,6 +111,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
+- [製造業の在庫評価・棚卸差異・月末棚卸管理をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-valuation-stock-count-difference-ai.html)
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
 - [経営会議・品質会議の議事録をAIで作る方法](/forge-labs-blog/2026/06/27/management-meeting-minutes-ai.html)
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
@@ -167,6 +169,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のBOM（部品表）・材料構成表をAIで整理する方法](/forge-labs-blog/2026/06/28/bom-parts-list-management-ai.html)
 
 **品質工学・統計**
+- [製造業の品質機能展開（QFD）・品質表をAIで整理する方法](/forge-labs-blog/2026/06/28/quality-function-deployment-qfd-ai.html)
 - [製造業の統計的工程管理（SPC）・管理図の活用をAIで整理する方法](/forge-labs-blog/2026/06/28/spc-statistical-process-control-ai.html)
 - [製造業のFMEA（故障モード影響解析）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/fmea-process-risk-analysis-ai.html)
 
