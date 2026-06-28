@@ -26,6 +26,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 ### 書類種類別ガイド
 
 **生産・現場管理**
+- [製造業の生産会議・品質会議・月次定例会の議事録をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-meeting-agenda-ai.html)（生産会議・品質会議・経営報告）
+- [製造業のMRO（保全・修理・オペレーション用品）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-mro-consumable-management-ai.html)（工具・消耗品・切削油管理）
 - [製造業のAIプロンプト テンプレートの選び方と使い分け【書類別ガイド】](/forge-labs-blog/2026/06/28/manufacturing-ai-prompt-template-selection.html)（テンプレート選び方）
 - [製造業の在庫管理・安全在庫・発注点をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-safety-stock-management-ai.html)
 - [作業日報をAIで作る方法](/forge-labs-blog/2026/06/21/daily-report-ai.html)
@@ -42,6 +44,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
 **安全・設備・環境管理**
+- [製造業の排水処理・廃液管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-waste-water-treatment-ai.html)（排水処理・廃液管理・水質汚濁防止法）
 - [製造業の避難訓練・防火訓練の実施記録をAIで整理する方法](/forge-labs-blog/2026/06/28/fire-drill-evacuation-training-manufacturing-ai.html)（避難訓練・消防計画）
 - [製造業の保全部品・スペアパーツ管理をAIで整理する方法](/forge-labs-blog/2026/06/28/maintenance-spare-parts-management-ai.html)（保全部品）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
