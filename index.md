@@ -43,6 +43,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **安全・設備・環境管理**
 - [製造業の保全部品・スペアパーツ管理をAIで整理する方法](/forge-labs-blog/2026/06/28/maintenance-spare-parts-management-ai.html)（保全部品）
 - [ISO 14001・環境マネジメント書類をAIで整理する方法](/forge-labs-blog/2026/06/28/iso14001-environment-management-ai.html)
+- [製造業の労働災害・事故調査記録をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-accident-investigation-ai.html)
 - [安全パトロール・安全巡視記録をAIで作る方法](/forge-labs-blog/2026/06/28/safety-patrol-report-ai.html)
 - [化学物質・SDS管理記録をAIで整理する方法](/forge-labs-blog/2026/06/28/sds-chemical-management-ai.html)
 - [省エネ活動記録・エネルギー管理をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-saving-management-ai.html)
@@ -187,9 +188,11 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
 - [製造業の標準時間・工数設定をAIで整理する方法](/forge-labs-blog/2026/06/28/standard-time-man-hour-setting-ai.html)
 - [製造業の電力契約・受電設備管理をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-power-electricity-management-ai.html)
+- [製造業の設備更新計画・廃棄処分書類をAIで整理する方法](/forge-labs-blog/2026/06/28/equipment-renewal-disposal-plan-ai.html)
 
 **情報セキュリティ・コンプライアンス**
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
+- [製造業の図面管理・技術文書管理体制をAIで整理する方法](/forge-labs-blog/2026/06/28/drawing-management-document-control-ai.html)
 - [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
 
 **健康・助成金・省エネ**
