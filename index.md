@@ -45,6 +45,9 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の工場長・現場管理者の日常管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-foreman-supervisor-daily-tasks-ai.html)（工場長日次報告・班長管理・KPIサマリー）
 - [製造業のプレス加工・金型管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-press-die-management-ai.html)（プレス金型・ショット管理・型費）
 - [製造業の金型・治具・工具管理台帳をAIで整理する方法](/forge-labs-blog/2026/06/28/mold-tooling-management-ai.html)
+- [製造業のJIT・かんばん生産管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-jit-kanban-production-ai.html)（かんばん設計・枚数計算・循環管理）
+- [製造業の切削工具管理・工具台帳書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-cutting-tool-management-ai.html)（工具台帳・工具寿命基準・工具費削減）
+- [製造業のNCプログラム・工作機械プログラム管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-nc-program-version-management-ai.html)（NCプログラム台帳・版数管理・バックアップ）
 - [製造業のリードタイム短縮・トヨタ生産方式（TPS）の書類をAIで整理する方法](/forge-labs-blog/2026/06/28/lean-tps-kaizen-documentation-ai.html)
 
 **安全・設備・環境管理**
