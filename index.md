@@ -114,6 +114,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [朝礼・申し送りをAIで議事録化する方法](/forge-labs-blog/2026/06/21/morning-meeting-ai.html)
 
 **人材育成・採用・労務**
+- [製造業の広報・採用ブランディング・企業PR書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-branding-recruitment-pr-ai.html)
 - [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
@@ -181,6 +182,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **生産技術・工場設計**
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
 - [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
+- [製造業の標準時間・工数設定をAIで整理する方法](/forge-labs-blog/2026/06/28/standard-time-man-hour-setting-ai.html)
+- [製造業の電力契約・受電設備管理をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-power-electricity-management-ai.html)
 
 **情報セキュリティ・コンプライアンス**
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
