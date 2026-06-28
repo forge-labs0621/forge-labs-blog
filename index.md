@@ -9,8 +9,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ### よく読まれている記事
 
-- [製造業でAI（ChatGPT）を使って効率化できる書類150選【2026年最新版】](/forge-labs-blog/2026/06/28/manufacturing-150-use-cases.html)（★★最新版・全記事まとめ★★）
-- [製造業でAI（ChatGPT）を使って効率化できる書類100選【完全まとめ】](/forge-labs-blog/2026/06/28/manufacturing-ai-100-use-cases.html)（旧まとめ）
+- [製造業でAI（ChatGPT）を使って効率化できる書類170選【2026年最新版】](/forge-labs-blog/2026/06/28/manufacturing-ai-170-use-cases.html)（★★最新版・全記事まとめ★★）
+- [製造業でAI（ChatGPT）を使って効率化できる書類150選](/forge-labs-blog/2026/06/28/manufacturing-150-use-cases.html)（旧まとめ）
 - [製造業でAI（ChatGPT）を使って失敗しないための5つのポイント](/forge-labs-blog/2026/06/28/manufacturing-ai-failure-patterns.html)（失敗回避）
 - [製造業でChatGPTをチームに展開する方法](/forge-labs-blog/2026/06/28/ai-team-rollout-manufacturing.html)（社内導入）
 - [製造業でAI（ChatGPT）を使う前によくある疑問20選【Q&A】](/forge-labs-blog/2026/06/27/manufacturing-ai-faq.html)
@@ -189,6 +189,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の海外展開・グローバル取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/overseas-expansion-global-manufacturing-ai.html)
 
 **生産技術・工場設計**
+- [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
 - [製造業の受注予測・需要予測・販売計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/demand-forecast-sales-planning-ai.html)
 - [製造業のMRP（資材所要量計画）・生産計画書類をAIで整理する方法](/forge-labs-blog/2026/06/28/mrp-production-planning-ai.html)
 - [製造業の工場レイアウト・ライン設計書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-layout-line-design-ai.html)
