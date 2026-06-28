@@ -60,6 +60,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
+- [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
 - [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
 - [製造業の下請法対応・下請取引書類をAIで整理する方法](/forge-labs-blog/2026/06/28/subcontracting-law-compliance-ai.html)
@@ -110,6 +111,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [品質異常報告書・不適合品管理をAIで作る方法](/forge-labs-blog/2026/06/27/nonconformance-report-ai.html)
 - [改善提案書（カイゼン）をAIで作る方法](/forge-labs-blog/2026/06/27/kaizen-proposal-ai.html)
 - [PDCA活動記録・改善報告書をAIで作る方法](/forge-labs-blog/2026/06/27/pdca-activity-report-ai.html)
+- [製造業の顧客クレーム対応・エスカレーション書類をAIで整理する方法](/forge-labs-blog/2026/06/28/customer-complaints-escalation-ai.html)（クレームエスカレーション）
 - [クレーム対応記録をAIで残す方法](/forge-labs-blog/2026/06/21/complaint-handling-ai.html)
 - [製造業の在庫評価・棚卸差異・月末棚卸管理をAIで整理する方法](/forge-labs-blog/2026/06/28/inventory-valuation-stock-count-difference-ai.html)
 - [棚卸表をAIで整理する方法](/forge-labs-blog/2026/06/21/inventory-ai.html)
@@ -201,6 +203,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **情報セキュリティ・コンプライアンス**
 - [製造業のISMS・情報セキュリティ管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/isms-information-security-management-ai.html)
+- [製造業の法令遵守・コンプライアンス確認書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-compliance-legal-check-ai.html)
 - [製造業の図面管理・技術文書管理体制をAIで整理する方法](/forge-labs-blog/2026/06/28/drawing-management-document-control-ai.html)
 - [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
 
