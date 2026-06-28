@@ -61,6 +61,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の電気設備・消防設備の定期点検書類をAIで整理する方法](/forge-labs-blog/2026/06/28/electrical-facility-inspection-ai.html)
 
 **受注・購買・出荷**
+- [製造業のサプライヤーポータル・仕入先情報共有書類をAIで整理する方法](/forge-labs-blog/2026/06/28/supplier-portal-information-sharing-ai.html)（仕入先情報共有・購買条件）
 - [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
 - [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
@@ -145,6 +146,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の労使関係・労働組合対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/labor-relations-union-management-ai.html)
 - [製造業の年次有給休暇・出勤簿管理をAIで整理する方法](/forge-labs-blog/2026/06/28/paid-leave-attendance-management-ai.html)
 - [製造業のシフト管理・人員配置計画をAIで整理する方法](/forge-labs-blog/2026/06/28/shift-scheduling-workforce-planning-ai.html)
+- [製造業のパートタイム・アルバイト管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/part-time-worker-management-manufacturing-ai.html)（パート・バイト雇用・同一労働同一賃金）
 
 **補助金・経営支援・社内管理**
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
@@ -198,6 +200,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **コスト削減・ムダ排除**
 - [製造業の7つのムダ排除・ロス削減計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-waste-reduction-muda-ai.html)（7つのムダ・手待ち・運搬改善）
+- [製造業の防錆・梱包仕様・長期保管管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-rust-prevention-packaging-ai.html)（防錆・梱包・出荷品質）
 
 **生産技術・工場設計**
 - [製造業のTPM（全員参加型生産保全）活動書類をAIで整理する方法](/forge-labs-blog/2026/06/28/tpm-total-productive-maintenance-ai.html)
