@@ -119,6 +119,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 **人材育成・採用・労務**
 - [製造業の広報・採用ブランディング・企業PR書類をAIで整理する方法](/forge-labs-blog/2026/06/28/factory-branding-recruitment-pr-ai.html)
 - [製造業の展示会・見本市出展計画・営業書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-exhibition-trade-show-ai.html)
+- [製造業の後継者育成・幹部候補教育計画書をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-succession-training-plan-ai.html)
 - [製造業の採用強化・会社説明会資料をAIで作る方法](/forge-labs-blog/2026/06/28/company-presentation-recruitment-ai.html)
 - [製造業のハラスメント防止・パワハラ対応書類をAIで作る方法](/forge-labs-blog/2026/06/28/harassment-prevention-ai.html)
 - [製造業の新入社員ハンドブック・オンボーディング資料をAIで作る方法](/forge-labs-blog/2026/06/28/new-employee-handbook-ai.html)
@@ -153,6 +154,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [インボイス制度（適格請求書）対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/invoice-system-manufacturing-ai.html)
 - [月次業績報告書・経営報告をAIで整理する方法](/forge-labs-blog/2026/06/28/monthly-business-report-ai.html)
 - [ものづくり補助金・持続化補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/27/subsidy-application-ai.html)
+- [製造業の社内提案書・プレゼン資料をAIで整理する方法](/forge-labs-blog/2026/06/28/internal-communication-proposal-writing-ai.html)
 - [設備投資稟議書・AI導入申請書をAIで作る方法](/forge-labs-blog/2026/06/27/equipment-investment-proposal-ai.html)
 - [BCP（事業継続計画）・防災計画の骨子をAIで整理する方法](/forge-labs-blog/2026/06/27/bcp-disaster-plan-ai.html)
 - [製造業のサプライチェーンリスク・調達多様化計画書をAIで作る方法](/forge-labs-blog/2026/06/28/supply-chain-risk-bcp-ai.html)
@@ -203,6 +205,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の環境内部監査・環境法令遵守確認をAIで整理する方法](/forge-labs-blog/2026/06/28/environmental-audit-iso14001-internal-ai.html)
 
 **健康・助成金・省エネ**
+- [製造業のストレスチェック・メンタルヘルス対策書類をAIで整理する方法](/forge-labs-blog/2026/06/28/occupational-health-stress-check-ai.html)
 - [製造業の健康管理・産業医対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/health-management-industrial-doctor-ai.html)
 - [製造業が使える雇用助成金・補助金の申請書類をAIで整理する方法](/forge-labs-blog/2026/06/28/employment-subsidy-grant-manufacturing-ai.html)
 - [製造業の省エネ診断・エネルギー監査書類をAIで整理する方法](/forge-labs-blog/2026/06/28/energy-audit-saving-diagnosis-ai.html)
