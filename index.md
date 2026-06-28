@@ -76,6 +76,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業の購買戦略・調達コスト分析書類をAIで整理する方法](/forge-labs-blog/2026/06/28/purchasing-strategy-procurement-cost-ai.html)（購買戦略・TCO分析・グローバル調達）
 - [製造業の製品説明書・取扱説明書（取説）をAIで整理する方法](/forge-labs-blog/2026/06/28/product-manual-instruction-sheet-ai.html)（取扱説明書・PL法対応）
 - [製造業のサプライヤーポータル・仕入先情報共有書類をAIで整理する方法](/forge-labs-blog/2026/06/28/supplier-portal-information-sharing-ai.html)（仕入先情報共有・購買条件）
+- [製造業の協力工場育成・下請け企業への指導書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-subcontractor-development-training-ai.html)（品質指導書・育成計画・改善指示書）
 - [製造業の外注管理・協力工場との連携書類をAIで整理する方法](/forge-labs-blog/2026/06/28/outsourcing-subcontract-management-ai.html)（外注管理）
 - [製造業の契約書・取引基本契約の確認をAIで補助する方法](/forge-labs-blog/2026/06/28/contract-review-legal-document-ai.html)（契約書管理）
 - [製造業の機密保持契約書（NDA）をAIで整理する方法](/forge-labs-blog/2026/06/28/nda-confidentiality-agreement-ai.html)
@@ -113,6 +114,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製品保証書・ワランティ文書をAIで作る方法](/forge-labs-blog/2026/06/28/product-warranty-guarantee-ai.html)
 - [製造業のリコール・製品回収対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/product-recall-safety-act-ai.html)
 - [製造業のRoHS・REACH・化学物質規制対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/rohs-reach-environmental-compliance-ai.html)
+- [製造業の工程能力分析（Cp・Cpk）書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-process-capability-cpk-analysis-ai.html)（工程能力指数・調査報告書・改善計画）
 - [製造業の品質コスト分析（COQ）レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/quality-cost-coq-analysis-ai.html)
 - [製造業の製品試験・試験設備管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-product-test-equipment-management-ai.html)（耐久試験・環境試験・試験報告書）
 - [製造業の各種認証試験・第三者試験機関対応書類をAIで整理する方法](/forge-labs-blog/2026/06/28/quality-certification-test-report-ai.html)
@@ -195,6 +197,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 **原価・工数管理**
 - [工数記録・原価計算補助をAIで効率化する方法](/forge-labs-blog/2026/06/27/man-hour-cost-management-ai.html)
+- [製造業の標準原価・原価差異分析書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-standard-cost-variance-analysis-ai.html)（材料費差異・労務費差異・差異分析レポート）
 - [原価差異分析・コスト管理レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/cost-variance-analysis-ai.html)
 - [製造業の設備投資評価・ROI計算レポートをAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-finance-roi-report-ai.html)
 - [製造業のBOM（部品表）・材料構成表をAIで整理する方法](/forge-labs-blog/2026/06/28/bom-parts-list-management-ai.html)
