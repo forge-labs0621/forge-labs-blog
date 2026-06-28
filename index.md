@@ -26,6 +26,7 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 ### 書類種類別ガイド
 
 **生産・現場管理**
+- [製造業の引き継ぎ・申し送り書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-shift-handover-ai.html)（交代勤務・引き継ぎ書・申し送り標準化）
 - [製造業の生産会議・品質会議・月次定例会の議事録をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-production-meeting-agenda-ai.html)（生産会議・品質会議・経営報告）
 - [製造業のMRO（保全・修理・オペレーション用品）管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-mro-consumable-management-ai.html)（工具・消耗品・切削油管理）
 - [製造業のAIプロンプト テンプレートの選び方と使い分け【書類別ガイド】](/forge-labs-blog/2026/06/28/manufacturing-ai-prompt-template-selection.html)（テンプレート選び方）
@@ -157,6 +158,8 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 - [製造業のパートタイム・アルバイト管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/part-time-worker-management-manufacturing-ai.html)（パート・バイト雇用・同一労働同一賃金）
 
 **補助金・経営支援・社内管理**
+- [製造業の製品開発ロードマップ・技術戦略書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-product-development-roadmap-ai.html)（製品開発・技術戦略・R&Dロードマップ）
+- [製造業の福利厚生・慶弔規程・社員寮管理書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-welfare-benefit-management-ai.html)（福利厚生・慶弔見舞金・採用強化）
 - [ものづくり補助金の事業計画書をAIで書く方法【採択率を上げるコツ】](/forge-labs-blog/2026/06/28/monodukuri-subsidy-application-ai.html)
 - [製造業の金融機関・IR向け業績説明書類をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-ir-bank-report-ai.html)
 - [製造業のKPI・ダッシュボード・経営指標をAIで整理する方法](/forge-labs-blog/2026/06/28/manufacturing-kpi-dashboard-ai.html)
