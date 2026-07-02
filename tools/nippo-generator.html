@@ -1,0 +1,107 @@
+---
+layout: page
+title: 作業日報ジェネレーター（無料・登録不要）
+description: フォームに入力するだけで、整った作業日報のテキストが完成。コピーしてそのまま提出・共有できます。中小製造業の現場向け・完全無料。
+permalink: /tools/nippo-generator/
+---
+
+<p>フォームに入力して「日報を作成」を押すと、整った作業日報テキストが下に出力されます。<br>
+入力内容がサーバーに送信されることはありません（すべてお使いのブラウザ内で処理されます）。</p>
+
+<style>
+.nippo-form label { display:block; font-weight:bold; margin-top:14px; }
+.nippo-form input[type=text], .nippo-form input[type=date], .nippo-form textarea, .nippo-form select {
+  width:100%; box-sizing:border-box; padding:8px; margin-top:4px;
+  border:1px solid #ccc; border-radius:4px; font-size:15px;
+}
+.nippo-form textarea { min-height:70px; }
+.nippo-btn {
+  margin-top:18px; padding:10px 24px; font-size:16px; font-weight:bold;
+  background:#2a7ae2; color:#fff; border:none; border-radius:4px; cursor:pointer;
+}
+.nippo-btn:hover { background:#1756a9; }
+.nippo-copy { background:#555; margin-left:8px; }
+#nippo-output {
+  width:100%; box-sizing:border-box; min-height:260px; margin-top:12px;
+  font-family:monospace; font-size:14px; padding:10px;
+  border:1px solid #ccc; border-radius:4px; background:#f8f8f8;
+}
+.nippo-note { font-size:13px; color:#666; }
+</style>
+
+<div class="nippo-form">
+  <label>日付</label>
+  <input type="date" id="np-date">
+  <label>氏名</label>
+  <input type="text" id="np-name" placeholder="例: 山田 太郎">
+  <label>工程・ライン・担当設備</label>
+  <input type="text" id="np-line" placeholder="例: 第2ライン NC旋盤">
+  <label>本日の作業内容</label>
+  <textarea id="np-work" placeholder="例: A社向けシャフト加工（品番 SH-102）、治具段取り替え 2回"></textarea>
+  <label>実績数量・進捗</label>
+  <input type="text" id="np-qty" placeholder="例: 計画120個 / 実績115個（達成率96%）">
+  <label>不具合・トラブル・ヒヤリハット（なければ空欄）</label>
+  <textarea id="np-trouble" placeholder="例: 14時頃、切粉詰まりで10分停止。清掃して復旧。"></textarea>
+  <label>気づき・改善提案（なければ空欄）</label>
+  <textarea id="np-kaizen" placeholder="例: 治具の位置決めピンが摩耗気味。来週交換を推奨。"></textarea>
+  <label>明日の予定</label>
+  <textarea id="np-tomorrow" placeholder="例: SH-102残り分の加工、B社向け試作の段取り"></textarea>
+  <button class="nippo-btn" onclick="nippoGenerate()">日報を作成</button>
+  <button class="nippo-btn nippo-copy" onclick="nippoCopy()">出力をコピー</button>
+  <p class="nippo-note" id="np-copied"></p>
+  <textarea id="nippo-output" readonly placeholder="ここに日報が出力されます"></textarea>
+</div>
+
+<script>
+function v(id) { return document.getElementById(id).value.trim(); }
+function nippoGenerate() {
+  var d = v('np-date');
+  var dateStr = d ? new Date(d + 'T00:00:00').toLocaleDateString('ja-JP',
+    { year:'numeric', month:'long', day:'numeric', weekday:'short' }) : '____年__月__日';
+  var lines = [];
+  lines.push('【作業日報】' + dateStr);
+  lines.push('氏名: ' + (v('np-name') || '________'));
+  lines.push('工程・ライン: ' + (v('np-line') || '________'));
+  lines.push('');
+  lines.push('■ 本日の作業内容');
+  lines.push(v('np-work') || '（記入なし）');
+  lines.push('');
+  lines.push('■ 実績・進捗');
+  lines.push(v('np-qty') || '（記入なし）');
+  lines.push('');
+  lines.push('■ 不具合・トラブル・ヒヤリハット');
+  lines.push(v('np-trouble') || '特になし');
+  lines.push('');
+  lines.push('■ 気づき・改善提案');
+  lines.push(v('np-kaizen') || '特になし');
+  lines.push('');
+  lines.push('■ 明日の予定');
+  lines.push(v('np-tomorrow') || '（記入なし）');
+  document.getElementById('nippo-output').value = lines.join('\n');
+  document.getElementById('np-copied').textContent = '';
+}
+function nippoCopy() {
+  var out = document.getElementById('nippo-output');
+  if (!out.value) { nippoGenerate(); }
+  out.select();
+  navigator.clipboard.writeText(out.value).then(function() {
+    document.getElementById('np-copied').textContent = 'コピーしました。そのままメール・チャット・帳票に貼り付けられます。';
+  });
+}
+</script>
+
+<hr>
+
+<h2>もっと楽にしたい方へ</h2>
+
+<p>このツールは「型に沿って埋める」ところまでを自動化します。
+<strong>箇条書きのメモを投げるだけで日報全体をAIに書かせたい</strong>方には、
+ChatGPT等にそのまま使える日報作成プロンプトを含むテンプレート集を用意しています。</p>
+
+<ul>
+  <li><a href="https://note.com/jolly_okapi4595/n/n5ce0e322594e">製造業向けAIプロンプトテンプレート集 Vol.1（作業日報・見積書・設備点検 ほか5本 / ¥1,980）</a></li>
+</ul>
+
+<p>関連する無料記事:
+<a href="{{ '/2026/06/21/daily-report-ai.html' | relative_url }}">作業日報をAIで作る方法</a> /
+<a href="{{ '/2026/06/26/work-report-template-free.html' | relative_url }}">製造業の作業日報テンプレート【AIで入力する書き方つき】</a></p>

@@ -7,6 +7,12 @@ title: Forge Labs Blog — 中小製造業のAI業務効率化ガイド
 
 ---
 
+### 🛠 無料ツール（登録不要・ブラウザで完結）
+
+- [作業日報ジェネレーター](/forge-labs-blog/tools/nippo-generator/) — フォームに入力するだけで整った日報テキストが完成。コピーしてそのまま提出できます。
+
+---
+
 ### よく読まれている記事
 
 - [製造業AIプロンプト活用事例350選【完全インデックス】](/forge-labs-blog/2026/06/29/manufacturing-350-achievement-hub.html)（★★最新版・350記事マイルストーン達成★★）
